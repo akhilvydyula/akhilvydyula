@@ -9,7 +9,7 @@ I am an undergraduate from Vardhaman College of Engineering, India, who is passi
 Besides programming, I enjoy reading, cooking and travelling.
 <br>
 <img src="https://media.giphy.com/media/3JEkXU9mnvnb2/giphy.gif" width='200 />
-<br/>  
+  
 **A bit about me:**
 
 - 🔭 I’m currently working as a **Machine Learning Engineer @ Atos**
