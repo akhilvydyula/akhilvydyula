@@ -4,12 +4,11 @@
 <br />
 <br />
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilvydyula" alt="akhilvydyula" /> </p>
 I am an undergraduate from Vardhaman College of Engineering, India, who is passionate about Data and with the art of developing something useful out of it 🚀.
 <br/>
 Besides programming, I enjoy reading, cooking and travelling.
 <br>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/akhilvydyula/master/animation.gif" width="400px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/S8g9YqOKTN5G8DPvBo/giphy.gif" width="400px" />
   
 **A bit about me:**
 
