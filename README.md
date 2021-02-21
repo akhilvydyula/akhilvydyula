@@ -8,8 +8,8 @@ I am an undergraduate from Vardhaman College of Engineering, India, who is passi
 <br/>
 Besides programming, I enjoy reading, cooking and travelling.
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/S8g9YqOKTN5G8DPvBo/giphy.gif" width="400px" />
-  
+<img src="https://media.giphy.com/media/3JEkXU9mnvnb2/giphy.gif" width='200 />
+<br/>  
 **A bit about me:**
 
 - 🔭 I’m currently working as a **Machine Learning Engineer @ Atos**
