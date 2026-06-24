@@ -1,29 +1,37 @@
 {
-  "description": "Curated repositories after consolidation",
-  "keep": [
+  "description": "Six flagship repositories — ship-quality only",
+  "repos": [
     {
       "name": "akhilvydyula",
-      "role": "GitHub profile README"
+      "role": "GitHub profile README",
+      "tagline": "Forward Deployment Engineer — profile & mission"
     },
     {
       "name": "oss-goalos-ai",
-      "role": "Flagship AI / open-source product"
+      "role": "Flagship AI / open-source product",
+      "tagline": "Turn screen time into goal time",
+      "demo": "https://akhilvydyula.github.io/oss-goalos-ai/"
     },
     {
       "name": "dataflow-ai",
-      "role": "Data + AI platform project"
+      "role": "AI-powered ETL platform",
+      "tagline": "Natural language → production ETL pipelines"
     },
     {
       "name": "interview-optimizer-pro",
-      "role": "Production-style AI application"
+      "role": "AI interview prep platform",
+      "tagline": "Mock interviews, job search, LMS workflows"
     },
     {
       "name": "portfolio-Akhil-Vydyula-PortfolioWebsite",
-      "role": "Personal portfolio site"
+      "role": "Personal portfolio site",
+      "tagline": "Professional presence on GitHub Pages",
+      "demo": "https://akhilvydyula.github.io/portfolio-Akhil-Vydyula-PortfolioWebsite/"
     },
     {
       "name": "oss-data-driven-decision-making",
-      "role": "Open-source analytics toolkit"
+      "role": "Open-source analytics knowledge base",
+      "tagline": "Public-sector data-driven decision making"
     }
   ]
 }

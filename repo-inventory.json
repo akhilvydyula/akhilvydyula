@@ -1,76 +1,129 @@
 {
   "owner": "akhilvydyula",
-  "total": 10,
+  "updated_at": "2026-06-24",
+  "total": 6,
+  "philosophy": "Six repos. Ship-quality only. Each repo has a clear mission, stack, and demo.",
   "repos": [
     {
-      "description": "",
-      "isFork": false,
       "name": "akhilvydyula",
-      "pushedAt": "2026-06-24T05:00:57Z",
-      "url": "https://github.com/akhilvydyula/akhilvydyula"
+      "url": "https://github.com/akhilvydyula/akhilvydyula",
+      "visibility": "public",
+      "tier": "profile",
+      "tagline": "Forward Deployment Engineer — profile & mission",
+      "description": "GitHub profile for Akhil Vydyula: Forward Deployment Engineer shipping enterprise data, AI, and lakehouse platforms to production.",
+      "highlights": [
+        "7 years enterprise data & AI delivery (BFSI, consulting, insurance)",
+        "300+ table lakehouse migrations, Gen AI in regulated environments",
+        "Mission-driven README: first principles, metrics, ship velocity"
+      ],
+      "stack": ["Markdown", "GitHub Profile"],
+      "topics": ["github-profile", "forward-deployment-engineer", "data-engineering", "generative-ai", "lakehouse"],
+      "demo": "https://github.com/akhilvydyula",
+      "language": "Python",
+      "status": "active",
+      "pin": false
     },
     {
-      "description": "GoalOS AI \u00e2\u20ac\u201d Turn screen time into goal time. Open-source productivity OS with web + Android apps.",
-      "isFork": false,
       "name": "oss-goalos-ai",
-      "pushedAt": "2026-06-24T04:52:17Z",
-      "url": "https://github.com/akhilvydyula/oss-goalos-ai"
+      "url": "https://github.com/akhilvydyula/oss-goalos-ai",
+      "visibility": "public",
+      "tier": "flagship",
+      "tagline": "Turn screen time into goal time",
+      "description": "Open-source AI productivity OS — web demo + Android app. Goal scoring, AI coach, intent checks, focus sprints. Local-first.",
+      "highlights": [
+        "Live web demo + native Android companion",
+        "AI coaching, focus sprints, screen-time-to-goal alignment",
+        "MIT licensed, CI/CD, architecture & deployment docs"
+      ],
+      "stack": ["TypeScript", "React", "Android", "AI/LLM"],
+      "topics": ["open-source", "productivity", "artificial-intelligence", "typescript", "android", "react"],
+      "demo": "https://akhilvydyula.github.io/oss-goalos-ai/",
+      "language": "TypeScript",
+      "status": "active",
+      "pin": true
     },
     {
-      "description": "",
-      "isFork": false,
       "name": "dataflow-ai",
-      "pushedAt": "2026-04-22T04:16:59Z",
-      "url": "https://github.com/akhilvydyula/dataflow-ai"
+      "url": "https://github.com/akhilvydyula/dataflow-ai",
+      "visibility": "private",
+      "tier": "flagship",
+      "tagline": "Natural language → production ETL pipelines",
+      "description": "AI-powered ETL platform: describe pipelines in plain English, generate deployable code for AWS/GCP/Azure. React + FastAPI + LLM.",
+      "highlights": [
+        "NL-to-pipeline generation via Perplexity / Llama 3.1",
+        "Multi-cloud deploy, real-time monitoring, code editor",
+        "Monorepo: React 18 frontend, FastAPI backend, Docker, Supabase"
+      ],
+      "stack": ["TypeScript", "React", "FastAPI", "Python", "Docker", "Supabase", "LLM"],
+      "topics": ["etl", "data-engineering", "generative-ai", "fastapi", "react", "multi-cloud"],
+      "demo": null,
+      "language": "TypeScript",
+      "status": "active",
+      "pin": true
     },
     {
-      "description": "",
-      "isFork": false,
       "name": "interview-optimizer-pro",
-      "pushedAt": "2025-10-27T00:51:23Z",
-      "url": "https://github.com/akhilvydyula/interview-optimizer-pro"
+      "url": "https://github.com/akhilvydyula/interview-optimizer-pro",
+      "visibility": "private",
+      "tier": "product",
+      "tagline": "AI interview prep & job search platform",
+      "description": "Full-stack AI platform for mock interviews, job search, subscriptions, and instructor/student LMS workflows. React + Supabase.",
+      "highlights": [
+        "Mock interviews, dashboard analytics, job search module",
+        "Auth, roles (instructor/student), course & material management",
+        "Vite + React + shadcn/ui + TanStack Query + Supabase"
+      ],
+      "stack": ["TypeScript", "React", "Vite", "Supabase", "Tailwind CSS", "shadcn/ui"],
+      "topics": ["interview-preparation", "artificial-intelligence", "react", "supabase", "full-stack"],
+      "demo": null,
+      "language": "TypeScript",
+      "status": "active",
+      "pin": true
     },
     {
-      "description": "",
-      "isFork": false,
-      "name": "LMS-AI",
-      "pushedAt": "2025-09-03T12:18:04Z",
-      "url": "https://github.com/akhilvydyula/LMS-AI"
-    },
-    {
-      "description": "",
-      "isFork": false,
-      "name": "web-Apply_Jobs_Dashboard",
-      "pushedAt": "2025-04-22T13:50:59Z",
-      "url": "https://github.com/akhilvydyula/web-Apply_Jobs_Dashboard"
-    },
-    {
-      "description": "This is Kaggle project.",
-      "isFork": false,
-      "name": "ml-Quora-Insincere-Questions-Classification",
-      "pushedAt": "2021-03-01T11:18:00Z",
-      "url": "https://github.com/akhilvydyula/ml-Quora-Insincere-Questions-Classification"
-    },
-    {
-      "description": "",
-      "isFork": false,
-      "name": "web-deploy_flask_app",
-      "pushedAt": "2020-12-21T08:53:09Z",
-      "url": "https://github.com/akhilvydyula/web-deploy_flask_app"
-    },
-    {
-      "description": "this is my personal website",
-      "isFork": false,
       "name": "portfolio-Akhil-Vydyula-PortfolioWebsite",
-      "pushedAt": "2020-12-01T11:39:34Z",
-      "url": "https://github.com/akhilvydyula/portfolio-Akhil-Vydyula-PortfolioWebsite"
+      "url": "https://github.com/akhilvydyula/portfolio-Akhil-Vydyula-PortfolioWebsite",
+      "visibility": "public",
+      "tier": "portfolio",
+      "tagline": "Personal portfolio & professional presence",
+      "description": "Personal portfolio website — projects, experience, and contact. Static site deployed on GitHub Pages.",
+      "highlights": [
+        "Live GitHub Pages deployment",
+        "Showcases engineering work and background",
+        "Lightweight HTML/CSS portfolio"
+      ],
+      "stack": ["HTML", "CSS", "JavaScript", "GitHub Pages"],
+      "topics": ["portfolio", "personal-website", "github-pages", "web-development"],
+      "demo": "https://akhilvydyula.github.io/portfolio-Akhil-Vydyula-PortfolioWebsite/",
+      "language": "HTML",
+      "status": "active",
+      "pin": true
     },
     {
-      "description": "A collection of resources to support public sector data driven decision making",
-      "isFork": false,
       "name": "oss-data-driven-decision-making",
-      "pushedAt": "2020-01-17T00:37:54Z",
-      "url": "https://github.com/akhilvydyula/oss-data-driven-decision-making"
+      "url": "https://github.com/akhilvydyula/oss-data-driven-decision-making",
+      "visibility": "public",
+      "tier": "opensource",
+      "tagline": "Public-sector data & decision-making resources",
+      "description": "Curated open-source collection of data science resources, guides, and links for evidence-based decision making in the public sector.",
+      "highlights": [
+        "Data science methodology & R overview resources",
+        "Public-sector analytics knowledge base",
+        "Open contribution model"
+      ],
+      "stack": ["Markdown", "Data Science", "R"],
+      "topics": ["open-source", "data-science", "analytics", "public-sector", "decision-making"],
+      "demo": null,
+      "language": null,
+      "status": "active",
+      "pin": false
     }
+  ],
+  "pin_order": [
+    "oss-goalos-ai",
+    "dataflow-ai",
+    "interview-optimizer-pro",
+    "portfolio-Akhil-Vydyula-PortfolioWebsite",
+    "oss-data-driven-decision-making"
   ]
 }
