@@ -1,38 +1,28 @@
-# Repository Structure
+# Repo Philosophy
 
-**10 flagship repositories** — everything else was removed to keep your GitHub profile focused.
+**10 repos. 203 deleted.**
 
-## Your 10 repos
+If it doesn't ship or doesn't teach something real, it doesn't belong on GitHub.
+
+## The 10
 
 | Repo | Purpose |
 |------|---------|
-| [akhilvydyula](https://github.com/akhilvydyula/akhilvydyula) | Profile README |
-| [oss-goalos-ai](https://github.com/akhilvydyula/oss-goalos-ai) | Flagship AI / open source |
-| [dataflow-ai](https://github.com/akhilvydyula/dataflow-ai) | Data + AI platform |
-| [interview-optimizer-pro](https://github.com/akhilvydyula/interview-optimizer-pro) | AI application |
-| [LMS-AI](https://github.com/akhilvydyula/LMS-AI) | AI learning management |
-| [portfolio-Akhil-Vydyula-PortfolioWebsite](https://github.com/akhilvydyula/portfolio-Akhil-Vydyula-PortfolioWebsite) | Portfolio site |
-| [web-deploy_flask_app](https://github.com/akhilvydyula/web-deploy_flask_app) | Flask deployment showcase |
-| [web-Apply_Jobs_Dashboard](https://github.com/akhilvydyula/web-Apply_Jobs_Dashboard) | Jobs dashboard |
-| [ml-Quora-Insincere-Questions-Classification](https://github.com/akhilvydyula/ml-Quora-Insincere-Questions-Classification) | NLP / ML showcase |
-| [oss-data-driven-decision-making](https://github.com/akhilvydyula/oss-data-driven-decision-making) | Analytics toolkit |
+| [akhilvydyula](https://github.com/akhilvydyula/akhilvydyula) | Profile |
+| [oss-goalos-ai](https://github.com/akhilvydyula/oss-goalos-ai) | AI product |
+| [dataflow-ai](https://github.com/akhilvydyula/dataflow-ai) | Data + AI |
+| [interview-optimizer-pro](https://github.com/akhilvydyula/interview-optimizer-pro) | AI app |
+| [LMS-AI](https://github.com/akhilvydyula/LMS-AI) | AI LMS |
+| [web-deploy_flask_app](https://github.com/akhilvydyula/web-deploy_flask_app) | Deployment |
+| [web-Apply_Jobs_Dashboard](https://github.com/akhilvydyula/web-Apply_Jobs_Dashboard) | Dashboard |
+| [ml-Quora-Insincere-Questions-Classification](https://github.com/akhilvydyula/ml-Quora-Insincere-Questions-Classification) | NLP |
+| [oss-data-driven-decision-making](https://github.com/akhilvydyula/oss-data-driven-decision-making) | Analytics |
+| [portfolio-Akhil-Vydyula-PortfolioWebsite](https://github.com/akhilvydyula/portfolio-Akhil-Vydyula-PortfolioWebsite) | Portfolio |
 
-## Pin these 6 on your profile
+## Pin 6
 
-1. oss-goalos-ai
-2. dataflow-ai
-3. interview-optimizer-pro
-4. web-deploy_flask_app
-5. portfolio-Akhil-Vydyula-PortfolioWebsite
-6. ml-Quora-Insincere-Questions-Classification
+`oss-goalos-ai` · `dataflow-ai` · `interview-optimizer-pro` · `web-deploy_flask_app` · `portfolio-Akhil-Vydyula-PortfolioWebsite` · `ml-Quora-Insincere-Questions-Classification`
 
-## Deleted repos
+## Archive
 
-A full record of removed repositories is in [deleted-repos-manifest.json](./deleted-repos-manifest.json) after consolidation runs.
-
-## Scripts
-
-```bash
-python scripts/consolidate_repos.py --dry-run
-python scripts/consolidate_repos.py          # requires gh delete_repo scope
-```
+Removed repos: [deleted-repos-manifest.json](./deleted-repos-manifest.json)
