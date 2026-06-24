@@ -108,15 +108,17 @@ I operate at the intersection of **engineering depth** and **customer delivery**
 
 ## Repository Library
 
-**205 repos** — organized by topic. Forks are archived so your main list shows **~47 original projects**.
+**~47 active projects** — grouped like folders with prefixes (`ml-`, `web-`, `learn-`, `oss-`). Forks are `fork-*` and archived.
 
-| Category | Topic filter | Highlights |
-|----------|--------------|------------|
-| **Open Source** | [`akhil-opensource`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-opensource) | [goalos-ai](https://github.com/akhilvydyula/goalos-ai) |
-| **ML & Data Science** | [`akhil-ml-projects`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-ml-projects) | 30 notebooks & Kaggle-style projects |
-| **Web Apps** | [`akhil-web-apps`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-web-apps) | Flask apps, dashboards, portfolio |
-| **Learning** | [`akhil-learning`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-learning) | Courses, assignments, hackathons |
-| **Forks** | [`akhil-forks`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-forks) | 158 reference forks |
+| Folder | Prefix | Browse |
+|--------|--------|--------|
+| **Open Source** | `oss-` | [topic:akhil-opensource](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-opensource) |
+| **ML & Data Science** | `ml-` | [topic:akhil-ml-projects](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-ml-projects) |
+| **Web Apps** | `web-` | [topic:akhil-web-apps](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-web-apps) |
+| **Learning** | `learn-` | [topic:akhil-learning](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-learning) |
+| **Forks** | `fork-` | [topic:akhil-forks](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-forks) |
+
+Sort repos by **Name** on GitHub to see folders line up.
 
 📂 Full catalog: [REPOS.md](./REPOS.md) · 🗂️ [How repos are organized](./REPO-STRUCTURE.md) (topics + archived forks, no orgs needed)
 
