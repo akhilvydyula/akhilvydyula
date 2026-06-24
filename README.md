@@ -7,8 +7,8 @@
     <td width="220" align="center" valign="middle">
       <img src="https://github.com/akhilvydyula.png" width="180" height="180" alt="Akhil Vydyula" style="border-radius: 50%; border: 4px solid #0467DF; box-shadow: 0 0 28px rgba(4,103,223,0.4);"/>
       <br/><br/>
-      <a href="https://akhilvydyula.github.io/akhilvydyula/">
-        <img src="https://img.shields.io/badge/Listen_to_My_Intro-0467DF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0a0f1a" alt="Play intro"/>
+      <a href="https://github.com/akhilvydyula">
+        <img src="https://img.shields.io/badge/View_Intro_Page-0467DF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1a" alt="Intro page"/>
       </a>
     </td>
     <td width="24"></td>
