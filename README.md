@@ -108,7 +108,7 @@ I operate at the intersection of **engineering depth** and **customer delivery**
 
 ## Repository Library
 
-**205 repos** — organized by category for easier navigation.
+**205 repos** — organized by topic. Forks are archived so your main list shows **~47 original projects**.
 
 | Category | Topic filter | Highlights |
 |----------|--------------|------------|
@@ -118,7 +118,7 @@ I operate at the intersection of **engineering depth** and **customer delivery**
 | **Learning** | [`akhil-learning`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-learning) | Courses, assignments, hackathons |
 | **Forks** | [`akhil-forks`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-forks) | 158 reference forks |
 
-📂 Full catalog: [REPOS.md](./REPOS.md) · 🗂️ Org plan: [ORG-STRUCTURE.md](./ORG-STRUCTURE.md)
+📂 Full catalog: [REPOS.md](./REPOS.md) · 🗂️ [How repos are organized](./REPO-STRUCTURE.md) (topics + archived forks, no orgs needed)
 
 ---
 
