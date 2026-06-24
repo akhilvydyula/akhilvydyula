@@ -14,13 +14,16 @@
     <td width="24"></td>
     <td valign="middle">
 
-**Hi, I'm Akhil** — Forward Deployment Engineer shipping **enterprise data & AI platforms** to production.
+**Hi, I'm Akhil** — I embed with teams and ship **production-grade data & AI systems** at enterprise scale.
+
+I specialize in **lakehouse migrations, Gen AI in regulated environments, and real-time platforms** where latency, cost, and governance are non-negotiable. Seven years delivering for BFSI and Fortune 500 clients — from ambiguous requirements to measurable production outcomes.
 
 | | |
 |:---|:---|
-| **Experience** | 7 years · BFSI, consulting, insurance |
-| **Current** | Senior Data Engineer @ **Ally Financial** · Charlotte, NC |
-| **Open to** | FDE · Solutions Engineer · Staff Data & AI |
+| **Focus** | Forward Deployment · Solutions · Staff Data & AI |
+| **Now** | Senior Data Engineer @ **Ally Financial** |
+| **Based** | Charlotte, NC |
+| **Target** | Google · Meta · Netflix · top-tier product & AI companies |
 
 <a href="https://www.linkedin.com/in/akhilvydyula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:akhilvydyula01@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f1a?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
