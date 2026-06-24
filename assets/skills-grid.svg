@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Technical expertise">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0a0f1a"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <style>
+    .title { font: 700 13px "Segoe UI", system-ui, sans-serif; fill: #60a5fa; letter-spacing: 1.5px; }
+    .chip  { font: 600 13px "Segoe UI", system-ui, sans-serif; fill: #e5e7eb; }
+  </style>
+  <!-- Languages -->
+  <rect x="16" y="16" width="276" height="288" rx="16" fill="url(#panel)" stroke="#0467DF" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="36" y="48" class="title">LANGUAGES</text>
+  <rect x="36" y="64" width="88" height="32" rx="8" fill="#0467DF" fill-opacity="0.2" stroke="#0467DF"/><text x="80" y="85" text-anchor="middle" class="chip">Python</text>
+  <rect x="132" y="64" width="68" height="32" rx="8" fill="#0467DF" fill-opacity="0.15" stroke="#0467DF" stroke-opacity="0.6"/><text x="166" y="85" text-anchor="middle" class="chip">SQL</text>
+  <rect x="208" y="64" width="68" height="32" rx="8" fill="#0467DF" fill-opacity="0.15" stroke="#0467DF" stroke-opacity="0.6"/><text x="242" y="85" text-anchor="middle" class="chip">PySpark</text>
+  <rect x="36" y="108" width="108" height="32" rx="8" fill="#0467DF" fill-opacity="0.15" stroke="#0467DF" stroke-opacity="0.6"/><text x="90" y="129" text-anchor="middle" class="chip">TypeScript</text>
+  <rect x="152" y="108" width="68" height="32" rx="8" fill="#0467DF" fill-opacity="0.15" stroke="#0467DF" stroke-opacity="0.6"/><text x="186" y="129" text-anchor="middle" class="chip">Java</text>
+  <rect x="36" y="152" width="68" height="32" rx="8" fill="#0467DF" fill-opacity="0.15" stroke="#0467DF" stroke-opacity="0.6"/><text x="70" y="173" text-anchor="middle" class="chip">C++</text>
+  <!-- Data & AI -->
+  <rect x="312" y="16" width="276" height="288" rx="16" fill="url(#panel)" stroke="#FF3621" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="332" y="48" class="title" fill="#fb923c">DATA &amp; AI</text>
+  <rect x="332" y="64" width="100" height="32" rx="8" fill="#FF3621" fill-opacity="0.2" stroke="#FF3621"/><text x="382" y="85" text-anchor="middle" class="chip">Databricks</text>
+  <rect x="440" y="64" width="68" height="32" rx="8" fill="#FF3621" fill-opacity="0.15" stroke="#FF3621" stroke-opacity="0.6"/><text x="474" y="85" text-anchor="middle" class="chip">Delta</text>
+  <rect x="332" y="108" width="120" height="32" rx="8" fill="#FF3621" fill-opacity="0.15" stroke="#FF3621" stroke-opacity="0.6"/><text x="392" y="129" text-anchor="middle" class="chip">Unity Catalog</text>
+  <rect x="460" y="108" width="88" height="32" rx="8" fill="#FF3621" fill-opacity="0.15" stroke="#FF3621" stroke-opacity="0.6"/><text x="504" y="129" text-anchor="middle" class="chip">Snowflake</text>
+  <rect x="332" y="152" width="68" height="32" rx="8" fill="#FF3621" fill-opacity="0.15" stroke="#FF3621" stroke-opacity="0.6"/><text x="366" y="173" text-anchor="middle" class="chip">Kafka</text>
+  <rect x="408" y="152" width="72" height="32" rx="8" fill="#FF3621" fill-opacity="0.15" stroke="#FF3621" stroke-opacity="0.6"/><text x="444" y="173" text-anchor="middle" class="chip">Airflow</text>
+  <rect x="332" y="196" width="72" height="32" rx="8" fill="#FF3621" fill-opacity="0.15" stroke="#FF3621" stroke-opacity="0.6"/><text x="368" y="217" text-anchor="middle" class="chip">MLflow</text>
+  <rect x="412" y="196" width="56" height="32" rx="8" fill="#FF3621" fill-opacity="0.2" stroke="#FF3621"/><text x="440" y="217" text-anchor="middle" class="chip">LLM</text>
+  <rect x="476" y="196" width="56" height="32" rx="8" fill="#FF3621" fill-opacity="0.2" stroke="#FF3621"/><text x="504" y="217" text-anchor="middle" class="chip">RAG</text>
+  <!-- Cloud -->
+  <rect x="608" y="16" width="276" height="288" rx="16" fill="url(#panel)" stroke="#29B5E8" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="628" y="48" class="title" fill="#38bdf8">CLOUD &amp; INFRA</text>
+  <rect x="628" y="64" width="64" height="32" rx="8" fill="#FF9900" fill-opacity="0.25" stroke="#FF9900"/><text x="660" y="85" text-anchor="middle" class="chip">AWS</text>
+  <rect x="700" y="64" width="64" height="32" rx="8" fill="#0078D4" fill-opacity="0.25" stroke="#0078D4"/><text x="732" y="85" text-anchor="middle" class="chip">Azure</text>
+  <rect x="772" y="64" width="64" height="32" rx="8" fill="#4285F4" fill-opacity="0.25" stroke="#4285F4"/><text x="804" y="85" text-anchor="middle" class="chip">GCP</text>
+  <rect x="628" y="108" width="76" height="32" rx="8" fill="#29B5E8" fill-opacity="0.15" stroke="#29B5E8" stroke-opacity="0.6"/><text x="666" y="129" text-anchor="middle" class="chip">Docker</text>
+  <rect x="712" y="108" width="96" height="32" rx="8" fill="#29B5E8" fill-opacity="0.15" stroke="#29B5E8" stroke-opacity="0.6"/><text x="760" y="129" text-anchor="middle" class="chip">Kubernetes</text>
+  <rect x="628" y="152" width="88" height="32" rx="8" fill="#29B5E8" fill-opacity="0.15" stroke="#29B5E8" stroke-opacity="0.6"/><text x="672" y="173" text-anchor="middle" class="chip">Terraform</text>
+  <!-- Compliance -->
+  <rect x="904" y="16" width="280" height="288" rx="16" fill="url(#panel)" stroke="#a855f7" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="924" y="48" class="title" fill="#c084fc">GOVERNANCE</text>
+  <rect x="924" y="64" width="72" height="32" rx="8" fill="#a855f7" fill-opacity="0.2" stroke="#a855f7"/><text x="960" y="85" text-anchor="middle" class="chip">SOC 2</text>
+  <rect x="1004" y="64" width="72" height="32" rx="8" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-opacity="0.6"/><text x="1040" y="85" text-anchor="middle" class="chip">GDPR</text>
+  <rect x="924" y="108" width="152" height="32" rx="8" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-opacity="0.6"/><text x="1000" y="129" text-anchor="middle" class="chip">Medallion Arch</text>
+  <rect x="924" y="152" width="120" height="32" rx="8" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-opacity="0.6"/><text x="984" y="173" text-anchor="middle" class="chip">Observability</text>
+  <rect x="924" y="196" width="88" height="32" rx="8" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-opacity="0.6"/><text x="968" y="217" text-anchor="middle" class="chip">Lineage</text>
+  <rect x="1020" y="196" width="72" height="32" rx="8" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-opacity="0.6"/><text x="1056" y="217" text-anchor="middle" class="chip">RBAC</text>
+</svg>

@@ -70,15 +70,12 @@ I am a **Forward Deployment Engineer** who embeds with teams, decomposes hard pr
 ## Technical Expertise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,java,aws,azure,gcp,docker,kubernetes,postgres,redis,git,githubactions&perline=6&theme=dark" alt="Core stack"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,react,java,cpp,aws,azure,gcp,docker,kubernetes,postgres,redis,git,githubactions&perline=7&theme=dark" alt="Core stack"/>
 </p>
 
-```
-Languages     Python · SQL · PySpark · TypeScript · Java · C++
-Data & AI       Databricks · Delta · Unity Catalog · Snowflake · Kafka · Airflow · MLflow · LLM · RAG
-Cloud           AWS · Azure · GCP · Docker · Kubernetes · Terraform
-Compliance      SOC 2 · GDPR · Medallion architecture · Observability
-```
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/main/assets/skills-grid.svg" alt="Technical expertise by category"/>
+</p>
 
 <p align="center">
   <img width="80%" src="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/main/assets/section-divider.svg" alt=""/>
