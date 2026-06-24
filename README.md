@@ -1,9 +1,13 @@
-<!-- 3D Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&gradient=0:000000,50:0a1628,100:0467DF&color=fff&text=Akhil%20Vydyula&fontSize=64&fontAlignY=38&desc=Forward%20Deployment%20Engineer%20%7C%20Data%20%26%20AI&descAlignY=62&descSize=18" alt="Akhil Vydyula"/>
+<!-- Header — self-hosted (capsule-render blocked on GitHub for some viewers) -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/main/assets/profile-banner.svg" alt="Akhil Vydyula — Forward Deployment Engineer"/>
+</p>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0467DF&center=true&width=850&lines=Enterprise+Lakehouse+%26+Gen+AI+in+Production;7+Years+Shipping+to+Production;Scope.+Ship.+Sustain.;First+Principles.+Zero+Bloat." alt="Typing intro"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=2800&pause=900&color=0467DF&center=true&vCenter=true&width=800&lines=Enterprise+Lakehouse+%26+Gen+AI;7+Years+Shipping+to+Production;Scope.+Ship.+Sustain." alt="Typing animation"/>
+  </a>
 </p>
 
 <p align="center">
@@ -189,8 +193,10 @@ I operate at the intersection of **deep engineering** and **customer delivery** 
 
 ---
 
-<!-- Footer wave — reliable gradient syntax -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0467DF,100:0a0a0a&height=120&section=footer&text=Let%27s%20Build.&fontSize=42&fontColor=fff&animation=twinkling" alt="Footer"/>
+<!-- Footer — self-hosted -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/main/assets/profile-footer.svg" alt="Let's Build"/>
+</p>
 
 <p align="center">
   <picture>
