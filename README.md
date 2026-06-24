@@ -106,6 +106,22 @@ I operate at the intersection of **engineering depth** and **customer delivery**
 
 ---
 
+## Repository Library
+
+**205 repos** — organized by category for easier navigation.
+
+| Category | Topic filter | Highlights |
+|----------|--------------|------------|
+| **Open Source** | [`akhil-opensource`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-opensource) | [goalos-ai](https://github.com/akhilvydyula/goalos-ai) |
+| **ML & Data Science** | [`akhil-ml-projects`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-ml-projects) | 30 notebooks & Kaggle-style projects |
+| **Web Apps** | [`akhil-web-apps`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-web-apps) | Flask apps, dashboards, portfolio |
+| **Learning** | [`akhil-learning`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-learning) | Courses, assignments, hackathons |
+| **Forks** | [`akhil-forks`](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-forks) | 158 reference forks |
+
+📂 Full catalog: [REPOS.md](./REPOS.md) · 🗂️ Org plan: [ORG-STRUCTURE.md](./ORG-STRUCTURE.md)
+
+---
+
 ## Open To
 
 Forward Deployment Engineer, Solutions Engineer, and Senior/Staff Data & AI Platform roles at **top-tier technology companies** — especially where the work is **customer-embedded, production-critical, and AI-forward**.
