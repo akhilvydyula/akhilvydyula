@@ -1,5 +1,5 @@
 {
-  "description": "Final ~10 repositories after consolidation (213 → 10)",
+  "description": "Curated repositories after consolidation",
   "keep": [
     {
       "name": "akhilvydyula",
@@ -18,24 +18,8 @@
       "role": "Production-style AI application"
     },
     {
-      "name": "LMS-AI",
-      "role": "AI learning management system"
-    },
-    {
       "name": "portfolio-Akhil-Vydyula-PortfolioWebsite",
       "role": "Personal portfolio site"
-    },
-    {
-      "name": "web-deploy_flask_app",
-      "role": "Deployment & Flask showcase"
-    },
-    {
-      "name": "web-Apply_Jobs_Dashboard",
-      "role": "Dashboard / full-stack web app"
-    },
-    {
-      "name": "ml-Quora-Insincere-Questions-Classification",
-      "role": "NLP / Kaggle-style ML showcase"
     },
     {
       "name": "oss-data-driven-decision-making",
