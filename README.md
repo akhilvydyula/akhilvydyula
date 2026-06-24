@@ -1,19 +1,69 @@
-<!-- Header — self-hosted (capsule-render blocked on GitHub for some viewers) -->
+<!-- Header -->
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/main/assets/profile-banner.svg" alt="Akhil Vydyula — Forward Deployment Engineer"/>
 </p>
 
-<!-- Typing animation -->
+<!-- Agent avatar + welcome -->
+<h3 align="center">🤖 Akhil Agent</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=2800&pause=900&color=0467DF&center=true&vCenter=true&width=800&lines=Enterprise+Lakehouse+%26+Gen+AI;7+Years+Shipping+to+Production;Scope.+Ship.+Sustain." alt="Typing animation"/>
+  <img src="https://github.com/akhilvydyula.png" width="200" height="200" alt="Akhil Vydyula" style="border-radius: 50%; border: 4px solid #0467DF; box-shadow: 0 0 28px #0467DF66;"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/main/assets/speech-bubble.svg" width="520" alt="Hello! Welcome to my GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&duration=2600&pause=800&color=0082FB&center=true&width=700&lines=Hello!+Welcome+to+my+GitHub.;I+ship+data+%26+AI+to+production.;Ask+me+about+lakehouses%2C+Gen+AI%2C+or+FDE+roles." alt="Agent speaking"/>
+</p>
+
+<p align="center">
+  <strong>🔊 Hear my welcome message</strong>
+</p>
+
+<p align="center">
+  <audio controls src="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/main/assets/welcome.mp3">
+    <a href="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/main/assets/welcome.mp3">Play welcome message</a>
+  </audio>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/main/assets/welcome.mp3">
+    <img src="https://img.shields.io/badge/▶️_Welcome_Message-Click_to_Play-0467DF?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Play welcome"/>
   </a>
 </p>
+
+---
+
+### Agent Bio
+
+> **Status:** `ONLINE` · Forward Deployment Engineer · Charlotte, NC  
+> **Mission:** Embed with teams → find the constraint → ship governed platforms to prod.  
+> **Now:** Senior Data Engineer @ **Ally Financial**  
+> **Open to:** FDE · Solutions Engineer · Staff Data & AI @ top-tier tech
+
+```agent
+akhil@production:~$ whoami
+Forward Deployment Engineer | 7y enterprise data & AI
+
+akhil@production:~$ cat mission.txt
+Intelligence infrastructure should be FAST, CHEAP, and TRUSTWORTHY.
+Not a quarterly slide deck.
+
+akhil@production:~$ last_shipment --recent
+→ 300+ table lakehouse migrations (BigQuery → Databricks)
+→ Gen AI / RAG in regulated environments
+→ 50–70% faster onboarding · <5 min freshness · 20–40% cost cut
+
+akhil@production:~$ echo $STATUS
+Ready to build. Let's talk.
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/Charlotte%2C%20NC-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=EA4335" alt="Location"/>
   <img src="https://img.shields.io/badge/Senior%20Data%20Engineer-Ally%20Financial-0a0a0a?style=for-the-badge&logo=accenture&logoColor=0467DF" alt="Role"/>
-  <img src="https://img.shields.io/badge/Open%20To-FDE%20%7C%20Staff%20Data%20%26%20AI-0a0a0a?style=for-the-badge&logo=target&logoColor=0082FB" alt="Open to"/>
+  <img src="https://img.shields.io/badge/Agent_Status-ONLINE-34A853?style=for-the-badge&logo=dependabot&logoColor=white" alt="Agent online"/>
 </p>
 
 <p align="center">
@@ -33,8 +83,8 @@
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  Engineer who embeds with teams, finds the constraint, and ships          │
-│  systems that survive production — not PowerPoints.                       │
+│  I embed with teams, find the constraint, and ship systems that           │
+│  survive production — not PowerPoints.                                    │
 │                                                                         │
 │  • 300+ table lakehouse migrations (BigQuery → Databricks)              │
 │  • Gen AI / RAG in regulated enterprise environments                    │
