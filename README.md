@@ -1,26 +1,26 @@
-<!-- 3D Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&gradient=0:0a0e17,50:0d2137,100:1a73e8&color=fff&text=Akhil%20Vydyula&fontSize=64&fontAlignY=38&desc=Forward%20Deployment%20Engineer%20%7C%20Data%20%26%20AI%20Platforms&descAlignY=62&descSize=18&stroke=00d4ff" alt="Akhil Vydyula"/>
+<!-- 3D Header — Meta blue / black cinematic -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&gradient=0:000000,45:0a1628,100:0467DF&color=fff&text=Akhil%20Vydyula&fontSize=64&fontAlignY=38&desc=Forward%20Deployment%20Engineer%20%7C%20Data%20%26%20AI%20Platforms&descAlignY=62&descSize=18&stroke=0082FB" alt="Akhil Vydyula"/>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Enterprise+Lakehouse+%26+Gen+AI+in+Production;7+Years+%7C+BFSI+%7C+Consulting+%7C+Insurance;Scope+%E2%86%92+Ship+%E2%86%92+Sustain;First+Principles+%7C+Zero+Bloat" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0467DF&center=true&vCenter=true&width=900&lines=Enterprise+Lakehouse+%26+Gen+AI+in+Production;7+Years+%7C+BFSI+%7C+Consulting+%7C+Insurance;Scope+%E2%86%92+Ship+%E2%86%92+Sustain;First+Principles+%7C+Zero+Bloat" alt="Typing intro"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Charlotte%2C%20NC-0d1117?style=for-the-badge&logo=googlemaps&logoColor=EA4335" alt="Location"/>
-  <img src="https://img.shields.io/badge/Senior%20Data%20Engineer-Ally%20Financial-0d1117?style=for-the-badge&logo=dataiku&logoColor=4285F4" alt="Role"/>
-  <img src="https://img.shields.io/badge/Open%20To-FDE%20%7C%20Staff%20Data%20%26%20AI-0d1117?style=for-the-badge&logo=target&logoColor=00D4FF" alt="Open to"/>
+  <img src="https://img.shields.io/badge/Charlotte%2C%20NC-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=EA4335" alt="Location"/>
+  <img src="https://img.shields.io/badge/Senior%20Data%20Engineer-Ally%20Financial-0a0a0a?style=for-the-badge&logo=dataiku&logoColor=0467DF" alt="Role"/>
+  <img src="https://img.shields.io/badge/Open%20To-FDE%20%7C%20Staff%20Data%20%26%20AI-0a0a0a?style=for-the-badge&logo=meta&logoColor=0467DF" alt="Open to"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhilvydyula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/akhilvydyula"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/akhilvydyula"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.udemy.com/user/akhil-vydyula/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/></a>
-  <a href="mailto:akhilvydyula01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:akhilvydyula01@gmail.com"><img src="https://img.shields.io/badge/Email-E50914?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhilvydyula&label=Profile%20views&color=1a73e8&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=akhilvydyula&label=Profile%20views&color=0467DF&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -45,11 +45,11 @@ I operate at the intersection of **deep engineering** and **customer delivery** 
 ### Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/300%2B-Tables%20Migrated-1a73e8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/50--70%25-Faster%20Onboarding-34A853?style=flat-square"/>
-  <img src="https://img.shields.io/badge/%3C5%20min-Data%20Freshness-FBBC04?style=flat-square"/>
-  <img src="https://img.shields.io/badge/20--40%25-Spark%20Cost%20Cut-EA4335?style=flat-square"/>
-  <img src="https://img.shields.io/badge/75%25-Faster%20DQ%20Resolution-9C27B0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/300%2B-Tables%20Migrated-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/50--70%25-Faster%20Onboarding-34A853?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%3C5%20min-Data%20Freshness-FBBC04?style=flat-square&logo=google&logoColor=black"/>
+  <img src="https://img.shields.io/badge/20--40%25-Spark%20Cost%20Cut-E50914?style=flat-square&logo=netflix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/75%25-Faster%20DQ%20Resolution-0467DF?style=flat-square&logo=meta&logoColor=white"/>
 </p>
 
 | Domain | What shipped |
@@ -70,9 +70,9 @@ I operate at the intersection of **deep engineering** and **customer delivery** 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Delta_Lake-0467DF?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E82127?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-0a0a0a?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -119,24 +119,24 @@ I operate at the intersection of **deep engineering** and **customer delivery** 
 
 <p align="center">
   <a href="https://github.com/akhilvydyula/oss-goalos-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilvydyula&repo=oss-goalos-ai&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" alt="goalos-ai"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilvydyula&repo=oss-goalos-ai&hide_border=true&bg_color=0a0a0a&title_color=0467DF&icon_color=0082FB&text_color=e6edf3&border_radius=12" alt="goalos-ai"/>
   </a>
   <a href="https://github.com/akhilvydyula/dataflow-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilvydyula&repo=dataflow-ai&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" alt="dataflow-ai"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilvydyula&repo=dataflow-ai&hide_border=true&bg_color=0a0a0a&title_color=0467DF&icon_color=0082FB&text_color=e6edf3&border_radius=12" alt="dataflow-ai"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/akhilvydyula/interview-optimizer-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilvydyula&repo=interview-optimizer-pro&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" alt="interview-optimizer"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilvydyula&repo=interview-optimizer-pro&hide_border=true&bg_color=0a0a0a&title_color=0467DF&icon_color=0082FB&text_color=e6edf3&border_radius=12" alt="interview-optimizer"/>
   </a>
   <a href="https://github.com/akhilvydyula/oss-data-driven-decision-making">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilvydyula&repo=oss-data-driven-decision-making&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=12" alt="data-driven"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhilvydyula&repo=oss-data-driven-decision-making&hide_border=true&bg_color=0a0a0a&title_color=0467DF&icon_color=0082FB&text_color=e6edf3&border_radius=12" alt="data-driven"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://akhilvydyula.github.io/oss-goalos-ai/"><img src="https://img.shields.io/badge/Live_Demo-GoalOS_AI-00D4FF?style=for-the-badge&logo=rocket&logoColor=0d1117" alt="GoalOS demo"/></a>
+  <a href="https://akhilvydyula.github.io/oss-goalos-ai/"><img src="https://img.shields.io/badge/Live_Demo-GoalOS_AI-0467DF?style=for-the-badge&logo=rocket&logoColor=white" alt="GoalOS demo"/></a>
 </p>
 
 ---
@@ -144,12 +144,12 @@ I operate at the intersection of **deep engineering** and **customer delivery** 
 ### GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akhilvydyula&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub stats"/>
-  <img height="180" src="https://streak-stats.demolab.com/?user=akhilvydyula&theme=react&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=00D4FF&currStreakLabel=58A6FF&border_radius=12" alt="Streak stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akhilvydyula&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=0467DF&icon_color=0082FB&text_color=e6edf3&include_all_commits=true&count_private=true&border_radius=12" alt="GitHub stats"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=akhilvydyula&hide_border=true&background=0A0A0A&stroke=1a1a2e&ring=0467DF&fire=E50914&currStreakLabel=0082FB&sideLabels=0467DF&dates=e6edf3&border_radius=12" alt="Streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilvydyula&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=00d4ff&point=ffffff&area=true&radius=8" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilvydyula&bg_color=0a0a0a&color=0467DF&line=0082FB&point=E50914&area=true&hide_border=true&radius=8" alt="Activity graph"/>
 </p>
 
 ---
@@ -157,8 +157,8 @@ I operate at the intersection of **deep engineering** and **customer delivery** 
 ### Education & Credentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20JNTUH-0d1117?style=flat-square&logo=graduation-cap"/>
-  <img src="https://img.shields.io/badge/ML%2FAI-Scaler_Academy-0d1117?style=flat-square&logo=brain"/>
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20JNTUH-0a0a0a?style=flat-square&logo=graduation-cap"/>
+  <img src="https://img.shields.io/badge/ML%2FAI-Scaler_Academy-0a0a0a?style=flat-square&logo=brain"/>
   <img src="https://img.shields.io/badge/NVIDIA-DLI-76B900?style=flat-square&logo=nvidia"/>
   <img src="https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=flat-square&logo=googlecloud"/>
   <img src="https://img.shields.io/badge/Instructor-Udemy-EC5252?style=flat-square&logo=udemy"/>
@@ -173,13 +173,13 @@ I operate at the intersection of **deep engineering** and **customer delivery** 
 </p>
 
 <p align="center">
-  <i>Top-tier tech · Customer-embedded · Production-critical · AI-forward</i>
+  <i>Google · Meta · Tesla · Netflix-tier problems — production-critical, AI-forward</i>
 </p>
 
 ---
 
-<!-- 3D Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1a73e8,0d2137&height=120&section=footer&text=Let%27s%20Build.&fontSize=42&fontColor=fff&animation=twinkling" alt="Footer"/>
+<!-- 3D Footer — Meta blue → Netflix red gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0467DF,0a0a0a,E50914&height=120&section=footer&text=Let%27s%20Build.&fontSize=42&fontColor=fff&animation=twinkling" alt="Footer"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akhilvydyula/akhilvydyula/output/snake-dark.svg" alt="Contribution snake"/>
