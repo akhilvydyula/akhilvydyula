@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Akhil Vydyula — Intro</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: linear-gradient(160deg, #000 0%, #0a1628 50%, #0467DF 100%);
+      color: #e6edf3;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    .card {
+      max-width: 520px;
+      width: 100%;
+      background: rgba(10, 10, 10, 0.85);
+      border: 1px solid #0467DF;
+      border-radius: 20px;
+      padding: 40px 32px;
+      text-align: center;
+      box-shadow: 0 0 40px rgba(4, 103, 223, 0.25);
+    }
+    .avatar {
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      border: 4px solid #0467DF;
+      box-shadow: 0 0 24px rgba(0, 130, 251, 0.4);
+      margin-bottom: 20px;
+    }
+    h1 { font-size: 1.75rem; margin-bottom: 6px; }
+    .role { color: #6ea8fe; font-size: 1rem; margin-bottom: 20px; }
+    .quote {
+      background: #0f1b2d;
+      border-left: 4px solid #0467DF;
+      padding: 16px 20px;
+      text-align: left;
+      border-radius: 0 12px 12px 0;
+      margin-bottom: 24px;
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: #b8d4ff;
+    }
+    .play-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: #0467DF;
+      color: #fff;
+      border: none;
+      padding: 14px 28px;
+      font-size: 1rem;
+      font-weight: 600;
+      border-radius: 50px;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.15s;
+    }
+    .play-btn:hover { background: #0082FB; transform: scale(1.03); }
+    .play-btn.playing { background: #34A853; }
+    audio { display: none; }
+    .links { margin-top: 28px; display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+    .links a {
+      color: #6ea8fe;
+      text-decoration: none;
+      font-size: 0.9rem;
+      padding: 8px 16px;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+    }
+    .links a:hover { border-color: #0467DF; color: #fff; }
+    .hint { margin-top: 16px; font-size: 0.8rem; color: #8b949e; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img class="avatar" src="https://github.com/akhilvydyula.png" alt="Akhil Vydyula"/>
+    <h1>Akhil Vydyula</h1>
+    <p class="role">Forward Deployment Engineer &middot; Data &amp; AI Platforms</p>
+    <div class="quote">
+      Hi &mdash; welcome to my GitHub. I build enterprise lakehouse and Gen AI systems that ship to production in regulated environments. Thanks for stopping by.
+    </div>
+    <button class="play-btn" id="playBtn" type="button" aria-label="Play introduction">
+      <span id="playIcon">&#9654;</span>
+      <span id="playLabel">Play my introduction</span>
+    </button>
+    <audio id="intro" preload="metadata">
+      <source src="./audio/welcome.mp3" type="audio/mpeg"/>
+    </audio>
+    <p class="hint">Tap play to hear my 20-second intro</p>
+    <div class="links">
+      <a href="https://github.com/akhilvydyula">GitHub Profile</a>
+      <a href="https://www.linkedin.com/in/akhilvydyula/">LinkedIn</a>
+      <a href="mailto:akhilvydyula01@gmail.com">Email</a>
+    </div>
+  </div>
+  <script>
+    const audio = document.getElementById("intro");
+    const btn = document.getElementById("playBtn");
+    const icon = document.getElementById("playIcon");
+    const label = document.getElementById("playLabel");
+    btn.addEventListener("click", () => {
+      if (audio.paused) {
+        audio.play();
+        btn.classList.add("playing");
+        icon.textContent = "\u23F8";
+        label.textContent = "Playing...";
+      } else {
+        audio.pause();
+        audio.currentTime = 0;
+        btn.classList.remove("playing");
+        icon.textContent = "\u25B6";
+        label.textContent = "Play my introduction";
+      }
+    });
+    audio.addEventListener("ended", () => {
+      btn.classList.remove("playing");
+      icon.textContent = "\u25B6";
+      label.textContent = "Play again";
+    });
+  </script>
+</body>
+</html>
