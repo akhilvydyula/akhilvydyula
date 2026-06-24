@@ -72,14 +72,13 @@ I build data and AI platforms where latency, cost, and compliance are engineerin
 
 ## Code
 
-**6 repos.** Each one ships something real.
+**5 repos.** Each one ships something real.
 
 | Ship | Mission | Stack |
 |------|---------|-------|
 | [oss-goalos-ai](https://github.com/akhilvydyula/oss-goalos-ai) | AI productivity OS — web + Android · [demo](https://akhilvydyula.github.io/oss-goalos-ai/) | TypeScript · React · AI |
 | [dataflow-ai](https://github.com/akhilvydyula/dataflow-ai) | NL → production ETL for AWS/GCP/Azure | React · FastAPI · LLM |
 | [interview-optimizer-pro](https://github.com/akhilvydyula/interview-optimizer-pro) | AI mock interviews, job search, LMS | React · Supabase · Vite |
-| [portfolio-Akhil-Vydyula-PortfolioWebsite](https://github.com/akhilvydyula/portfolio-Akhil-Vydyula-PortfolioWebsite) | Portfolio · [live](https://akhilvydyula.github.io/portfolio-Akhil-Vydyula-PortfolioWebsite/) | HTML · GitHub Pages |
 | [oss-data-driven-decision-making](https://github.com/akhilvydyula/oss-data-driven-decision-making) | Public-sector analytics knowledge base | Data Science · OSS |
 
 📂 [Full catalog](./REPOS.md) · [repo-inventory.json](./repo-inventory.json)

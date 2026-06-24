@@ -1,5 +1,5 @@
 {
-  "description": "Six flagship repositories — ship-quality only",
+  "description": "Five flagship repositories — ship-quality only",
   "repos": [
     {
       "name": "akhilvydyula",
@@ -21,12 +21,6 @@
       "name": "interview-optimizer-pro",
       "role": "AI interview prep platform",
       "tagline": "Mock interviews, job search, LMS workflows"
-    },
-    {
-      "name": "portfolio-Akhil-Vydyula-PortfolioWebsite",
-      "role": "Personal portfolio site",
-      "tagline": "Professional presence on GitHub Pages",
-      "demo": "https://akhilvydyula.github.io/portfolio-Akhil-Vydyula-PortfolioWebsite/"
     },
     {
       "name": "oss-data-driven-decision-making",

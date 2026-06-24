@@ -1,8 +1,8 @@
 {
   "owner": "akhilvydyula",
   "updated_at": "2026-06-24",
-  "total": 6,
-  "philosophy": "Six repos. Ship-quality only. Each repo has a clear mission, stack, and demo.",
+  "total": 5,
+  "philosophy": "Five repos. Ship-quality only. Each repo has a clear mission, stack, and demo.",
   "repos": [
     {
       "name": "akhilvydyula",
@@ -81,25 +81,6 @@
       "pin": true
     },
     {
-      "name": "portfolio-Akhil-Vydyula-PortfolioWebsite",
-      "url": "https://github.com/akhilvydyula/portfolio-Akhil-Vydyula-PortfolioWebsite",
-      "visibility": "public",
-      "tier": "portfolio",
-      "tagline": "Personal portfolio & professional presence",
-      "description": "Personal portfolio website — projects, experience, and contact. Static site deployed on GitHub Pages.",
-      "highlights": [
-        "Live GitHub Pages deployment",
-        "Showcases engineering work and background",
-        "Lightweight HTML/CSS portfolio"
-      ],
-      "stack": ["HTML", "CSS", "JavaScript", "GitHub Pages"],
-      "topics": ["portfolio", "personal-website", "github-pages", "web-development"],
-      "demo": "https://akhilvydyula.github.io/portfolio-Akhil-Vydyula-PortfolioWebsite/",
-      "language": "HTML",
-      "status": "active",
-      "pin": true
-    },
-    {
       "name": "oss-data-driven-decision-making",
       "url": "https://github.com/akhilvydyula/oss-data-driven-decision-making",
       "visibility": "public",
@@ -123,7 +104,6 @@
     "oss-goalos-ai",
     "dataflow-ai",
     "interview-optimizer-pro",
-    "portfolio-Akhil-Vydyula-PortfolioWebsite",
     "oss-data-driven-decision-making"
   ]
 }
