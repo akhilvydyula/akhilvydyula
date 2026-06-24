@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="Avatar frame">
   <defs>
     <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -10,11 +11,11 @@
         <animate attributeName="flood-opacity" values="0.35;0.75;0.35" dur="2s" repeatCount="indefinite"/>
       </feDropShadow>
     </filter>
+    <clipPath id="clip"><circle cx="100" cy="100" r="84"/></clipPath>
   </defs>
   <circle cx="100" cy="100" r="96" fill="none" stroke="url(#ring)" stroke-width="6" filter="url(#pulse)"/>
   <circle cx="100" cy="100" r="88" fill="#0a0a0a"/>
   <image href="https://github.com/akhilvydyula.png" x="16" y="16" width="168" height="168" clip-path="url(#clip)" preserveAspectRatio="xMidYMid slice"/>
-  <clipPath id="clip"><circle cx="100" cy="100" r="84"/></clipPath>
   <circle cx="158" cy="42" r="14" fill="#34A853" stroke="#0a0a0a" stroke-width="3"/>
   <circle cx="158" cy="42" r="6" fill="#ffffff">
     <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
