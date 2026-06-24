@@ -106,21 +106,23 @@ I operate at the intersection of **engineering depth** and **customer delivery**
 
 ---
 
-## Repository Library
+## Featured Repositories
 
-**~47 active projects** — grouped like folders with prefixes (`ml-`, `web-`, `learn-`, `oss-`). Forks are `fork-*` and archived.
+**10 curated projects** — focused showcase for recruiters and collaborators.
 
-| Folder | Prefix | Browse |
-|--------|--------|--------|
-| **Open Source** | `oss-` | [topic:akhil-opensource](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-opensource) |
-| **ML & Data Science** | `ml-` | [topic:akhil-ml-projects](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-ml-projects) |
-| **Web Apps** | `web-` | [topic:akhil-web-apps](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-web-apps) |
-| **Learning** | `learn-` | [topic:akhil-learning](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-learning) |
-| **Forks** | `fork-` | [topic:akhil-forks](https://github.com/akhilvydyula?tab=repositories&q=topic%3Aakhil-forks) |
+| Repo | Focus |
+|------|-------|
+| [oss-goalos-ai](https://github.com/akhilvydyula/oss-goalos-ai) | AI / open source |
+| [dataflow-ai](https://github.com/akhilvydyula/dataflow-ai) | Data + AI platform |
+| [interview-optimizer-pro](https://github.com/akhilvydyula/interview-optimizer-pro) | Production AI app |
+| [LMS-AI](https://github.com/akhilvydyula/LMS-AI) | AI learning platform |
+| [portfolio-Akhil-Vydyula-PortfolioWebsite](https://github.com/akhilvydyula/portfolio-Akhil-Vydyula-PortfolioWebsite) | Portfolio |
+| [web-deploy_flask_app](https://github.com/akhilvydyula/web-deploy_flask_app) | Flask deployment |
+| [web-Apply_Jobs_Dashboard](https://github.com/akhilvydyula/web-Apply_Jobs_Dashboard) | Dashboard |
+| [ml-Quora-Insincere-Questions-Classification](https://github.com/akhilvydyula/ml-Quora-Insincere-Questions-Classification) | NLP / ML |
+| [oss-data-driven-decision-making](https://github.com/akhilvydyula/oss-data-driven-decision-making) | Analytics |
 
-Sort repos by **Name** on GitHub to see folders line up.
-
-📂 Full catalog: [REPOS.md](./REPOS.md) · 🗂️ [How repos are organized](./REPO-STRUCTURE.md) (topics + archived forks, no orgs needed)
+🗂️ [How repos are organized](./REPO-STRUCTURE.md)
 
 ---
 

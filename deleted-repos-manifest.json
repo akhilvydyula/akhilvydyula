@@ -1,0 +1,1645 @@
+{
+  "deleted_at": "2026-06-24T05:09:33.262603+00:00",
+  "owner": "akhilvydyula",
+  "kept": [
+    "LMS-AI",
+    "akhilvydyula",
+    "dataflow-ai",
+    "interview-optimizer-pro",
+    "ml-Quora-Insincere-Questions-Classification",
+    "oss-data-driven-decision-making",
+    "oss-goalos-ai",
+    "portfolio-Akhil-Vydyula-PortfolioWebsite",
+    "web-Apply_Jobs_Dashboard",
+    "web-deploy_flask_app"
+  ],
+  "deleted_count": 203,
+  "failed_count": 0,
+  "deleted": [
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "playing",
+      "pushedAt": "2025-06-28T11:56:52Z",
+      "url": "https://github.com/akhilvydyula/playing"
+    },
+    {
+      "description": "Sample Machine Learning App for MLOps Learning created by School of Devops",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-house-price-predictor",
+      "pushedAt": "2025-05-14T06:11:47Z",
+      "url": "https://github.com/akhilvydyula/fork-house-price-predictor"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "f-224592",
+      "pushedAt": "2025-03-21T12:31:36Z",
+      "url": "https://github.com/akhilvydyula/f-224592"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "SM-Web-Development",
+      "pushedAt": "2025-03-21T12:29:59Z",
+      "url": "https://github.com/akhilvydyula/SM-Web-Development"
+    },
+    {
+      "description": "Statistics for Machine Learning, published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Statistics-for-Machine-Learning",
+      "pushedAt": "2024-07-14T11:03:49Z",
+      "url": "https://github.com/akhilvydyula/fork-Statistics-for-Machine-Learning"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "WEBSITE-COURSE",
+      "pushedAt": "2024-06-28T07:32:50Z",
+      "url": "https://github.com/akhilvydyula/WEBSITE-COURSE"
+    },
+    {
+      "description": "A Hands on Guide on MLOps Practices to take your model from Laptop to Production. Created by the Author - Nachiketh Murthy",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Complete-MLOps-BootCamp",
+      "pushedAt": "2024-05-03T12:14:22Z",
+      "url": "https://github.com/akhilvydyula/fork-Complete-MLOps-BootCamp"
+    },
+    {
+      "description": "A robot powered training repository :robot:",
+      "isArchived": false,
+      "isFork": false,
+      "name": "web-github-slideshow",
+      "pushedAt": "2023-04-11T23:34:20Z",
+      "url": "https://github.com/akhilvydyula/web-github-slideshow"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "learn-The-Solvers-Challenge---PwC",
+      "pushedAt": "2022-11-02T11:55:08Z",
+      "url": "https://github.com/akhilvydyula/learn-The-Solvers-Challenge---PwC"
+    },
+    {
+      "description": ":fire: A series of code examples for all sorts of machine learning tasks and applications.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-ML-Notebooks",
+      "pushedAt": "2022-08-09T15:59:57Z",
+      "url": "https://github.com/akhilvydyula/fork-ML-Notebooks"
+    },
+    {
+      "description": "Collection of google colaboratory notebooks for fast and easy experiments",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-colab-notebooks",
+      "pushedAt": "2022-08-01T18:08:04Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-colab-notebooks"
+    },
+    {
+      "description": "Regular practice on Data Science, Machien Learning, Deep Learning, Solving ML Project problem, Analytical Issue. Regular boost up my knowledge. The goal is to help learner with learning resource on Data Science filed.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-Science-Regular-Bootcamp",
+      "pushedAt": "2022-07-26T17:45:35Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-Science-Regular-Bootcamp"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "learn-Younity_course_project",
+      "pushedAt": "2022-07-02T15:01:10Z",
+      "url": "https://github.com/akhilvydyula/learn-Younity_course_project"
+    },
+    {
+      "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-handson-ml2",
+      "pushedAt": "2022-02-27T07:23:22Z",
+      "url": "https://github.com/akhilvydyula/fork-handson-ml2"
+    },
+    {
+      "description": "Open Machine Learning Course",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-mlcourse.ai",
+      "pushedAt": "2022-02-02T13:04:44Z",
+      "url": "https://github.com/akhilvydyula/fork-mlcourse.ai"
+    },
+    {
+      "description": "Awesome free machine learning and AI courses with video lectures.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-ml-courses",
+      "pushedAt": "2022-01-29T14:37:38Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-ml-courses"
+    },
+    {
+      "description": "Data Science and Machine Learning codes for Scaler Edge Batch",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Edge-DSML",
+      "pushedAt": "2022-01-07T18:09:12Z",
+      "url": "https://github.com/akhilvydyula/fork-Edge-DSML"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "learn-Uhack",
+      "pushedAt": "2022-01-05T13:54:12Z",
+      "url": "https://github.com/akhilvydyula/learn-Uhack"
+    },
+    {
+      "description": "This repository contains notes and projects of Data scientist track from dataquest course work.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-Scientist-In-Python",
+      "pushedAt": "2021-12-23T04:03:07Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-Scientist-In-Python"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "learn-c-assignment",
+      "pushedAt": "2021-12-07T15:11:33Z",
+      "url": "https://github.com/akhilvydyula/learn-c-assignment"
+    },
+    {
+      "description": "Will discuss NER and also custom training of NER models",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-NER",
+      "pushedAt": "2021-11-23T16:53:36Z",
+      "url": "https://github.com/akhilvydyula/fork-NER"
+    },
+    {
+      "description": "Best Practices on Recommendation Systems",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-recommenders",
+      "pushedAt": "2021-11-22T07:58:25Z",
+      "url": "https://github.com/akhilvydyula/fork-recommenders"
+    },
+    {
+      "description": "Projects and useful articles / links",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-NLP-Natural-Language-Processing",
+      "pushedAt": "2021-11-20T16:23:15Z",
+      "url": "https://github.com/akhilvydyula/fork-NLP-Natural-Language-Processing"
+    },
+    {
+      "description": "machine learning and deep learning tutorials, articles and other resources ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Machine-Learning-Tutorials",
+      "pushedAt": "2021-11-17T11:07:48Z",
+      "url": "https://github.com/akhilvydyula/fork-Machine-Learning-Tutorials"
+    },
+    {
+      "description": "Set of \ud83d\udcdd with \ud83d\udd17 to help those who are Data Science beginners \ud83e\udd16",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-For-Data-Science-Beginners",
+      "pushedAt": "2021-11-16T11:54:35Z",
+      "url": "https://github.com/akhilvydyula/fork-For-Data-Science-Beginners"
+    },
+    {
+      "description": "A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+      "pushedAt": "2021-11-10T19:39:53Z",
+      "url": "https://github.com/akhilvydyula/fork-Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials"
+    },
+    {
+      "description": "Microsoft AI",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-AI",
+      "pushedAt": "2021-10-29T22:10:59Z",
+      "url": "https://github.com/akhilvydyula/fork-AI"
+    },
+    {
+      "description": "ML-AI Community | Open Source | Built in Bharat for the World | Data science problem statements and solutions ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-ml-ai",
+      "pushedAt": "2021-10-25T05:11:14Z",
+      "url": "https://github.com/akhilvydyula/fork-ml-ai"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-credit-risk-analysis",
+      "pushedAt": "2021-10-18T14:05:45Z",
+      "url": "https://github.com/akhilvydyula/ml-credit-risk-analysis"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-fake-news-detection",
+      "pushedAt": "2021-10-18T12:06:40Z",
+      "url": "https://github.com/akhilvydyula/ml-fake-news-detection"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-100-days-of-machine-learning",
+      "pushedAt": "2021-09-30T12:40:28Z",
+      "url": "https://github.com/akhilvydyula/fork-100-days-of-machine-learning"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Restaurant-Rating-Predict",
+      "pushedAt": "2021-09-27T06:11:27Z",
+      "url": "https://github.com/akhilvydyula/ml-Restaurant-Rating-Predict"
+    },
+    {
+      "description": "A project-based course on the foundations of MLOps with a focus on intuition and application.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-MLOps",
+      "pushedAt": "2021-09-01T22:36:26Z",
+      "url": "https://github.com/akhilvydyula/fork-MLOps"
+    },
+    {
+      "description": "File descriptions BBC News Train.csv - the training set of 1490 records BBC News Test.csv - the test set of 736 records BBC News Sample Solution.csv - a sample submission file in the correct format Data fields ArticleId - Article id unique # given to the record Article - text of the header and article Category - cateogry of the article (tech, business, sport, entertainment, politics/li>",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-News-Arttcle-Sorting",
+      "pushedAt": "2021-08-29T11:09:23Z",
+      "url": "https://github.com/akhilvydyula/ml-News-Arttcle-Sorting"
+    },
+    {
+      "description": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-The-Complete-FAANG-Preparation",
+      "pushedAt": "2021-08-25T09:44:52Z",
+      "url": "https://github.com/akhilvydyula/fork-The-Complete-FAANG-Preparation"
+    },
+    {
+      "description": "\ud83d\udcda Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-applied-ml",
+      "pushedAt": "2021-08-25T02:14:41Z",
+      "url": "https://github.com/akhilvydyula/fork-applied-ml"
+    },
+    {
+      "description": "Course projects for the Post Graduate Program in Artificial Intelligence and Machine Learning designed by leading academic and industry experts with IIT-Bombay faculty recognised by The University of Texas at Austin and Great Lakes. Facilitated by GreatLearning.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-UTAustin-IITB-PG-AIML",
+      "pushedAt": "2021-08-24T09:18:25Z",
+      "url": "https://github.com/akhilvydyula/fork-UTAustin-IITB-PG-AIML"
+    },
+    {
+      "description": "Official code repo for the O'Reilly Book - Practical Deep Learning for Cloud, Mobile & Edge",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Practical-Deep-Learning-Book",
+      "pushedAt": "2021-08-23T22:06:41Z",
+      "url": "https://github.com/akhilvydyula/fork-Practical-Deep-Learning-Book"
+    },
+    {
+      "description": "Projects I completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-AIML-Projects",
+      "pushedAt": "2021-08-23T15:32:44Z",
+      "url": "https://github.com/akhilvydyula/fork-AIML-Projects"
+    },
+    {
+      "description": "A complete daily plan for studying to become a machine learning engineer.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-machine-learning-for-software-engineers",
+      "pushedAt": "2021-08-20T22:12:20Z",
+      "url": "https://github.com/akhilvydyula/fork-machine-learning-for-software-engineers"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "learn-Zeta-Assignment",
+      "pushedAt": "2021-08-17T13:42:18Z",
+      "url": "https://github.com/akhilvydyula/learn-Zeta-Assignment"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-The-Tea-Story",
+      "pushedAt": "2021-08-16T02:38:15Z",
+      "url": "https://github.com/akhilvydyula/ml-The-Tea-Story"
+    },
+    {
+      "description": "Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning tutorial series. Learn deep learning from scratch. Deep learning series for beginners. Tensorflow tutorials, tensorflow 2.0 tutorial. deep learning tutorial python.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-deep-learning-keras-tf-tutorial",
+      "pushedAt": "2021-08-13T17:58:05Z",
+      "url": "https://github.com/akhilvydyula/fork-deep-learning-keras-tf-tutorial"
+    },
+    {
+      "description": "Python GUI Programming with Tkinter 2E.Published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Python-GUI-Programming-with-Tkinter-2E",
+      "pushedAt": "2021-08-13T00:08:44Z",
+      "url": "https://github.com/akhilvydyula/fork-Python-GUI-Programming-with-Tkinter-2E"
+    },
+    {
+      "description": "Modern Computer Vision with PyTorch, published by Packt  ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Modern-Computer-Vision-with-PyTorch",
+      "pushedAt": "2021-08-11T14:55:13Z",
+      "url": "https://github.com/akhilvydyula/fork-Modern-Computer-Vision-with-PyTorch"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "learn-Sentiment-Analysis-Hackathon",
+      "pushedAt": "2021-08-11T06:24:54Z",
+      "url": "https://github.com/akhilvydyula/learn-Sentiment-Analysis-Hackathon"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-News-Articles-Sorting",
+      "pushedAt": "2021-08-08T08:04:27Z",
+      "url": "https://github.com/akhilvydyula/ml-News-Articles-Sorting"
+    },
+    {
+      "description": "This repository would be a kart for all the projects based on machine learning, deep learning, computer vision, natural language processing and all. Show your support by \u2728 this repository. ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-ML-ProjectKart",
+      "pushedAt": "2021-08-07T06:11:58Z",
+      "url": "https://github.com/akhilvydyula/fork-ML-ProjectKart"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-movie-genre-classification",
+      "pushedAt": "2021-08-06T14:49:21Z",
+      "url": "https://github.com/akhilvydyula/ml-movie-genre-classification"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Identify-the-Sentiments",
+      "pushedAt": "2021-08-04T16:37:33Z",
+      "url": "https://github.com/akhilvydyula/ml-Identify-the-Sentiments"
+    },
+    {
+      "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-datascience",
+      "pushedAt": "2021-08-04T05:25:06Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-datascience"
+    },
+    {
+      "description": "\u2728 A free and open-source tool to explore, label, and monitor data for NLP projects",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-rubrix",
+      "pushedAt": "2021-07-30T20:42:18Z",
+      "url": "https://github.com/akhilvydyula/fork-rubrix"
+    },
+    {
+      "description": "A curated list of practical financial machine learning tools and applications.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-financial-machine-learning",
+      "pushedAt": "2021-07-28T01:53:31Z",
+      "url": "https://github.com/akhilvydyula/fork-financial-machine-learning"
+    },
+    {
+      "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-nlp",
+      "pushedAt": "2021-07-27T08:30:11Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-nlp"
+    },
+    {
+      "description": "resources for quantum computing",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-quantum_computing_resources",
+      "pushedAt": "2021-07-24T15:25:49Z",
+      "url": "https://github.com/akhilvydyula/fork-quantum_computing_resources"
+    },
+    {
+      "description": "Collection of useful data science topics along with code and articles",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-science",
+      "pushedAt": "2021-07-22T18:50:48Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-science"
+    },
+    {
+      "description": "\ud83c\udfc6 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-best-of-ml-python",
+      "pushedAt": "2021-07-22T15:33:33Z",
+      "url": "https://github.com/akhilvydyula/fork-best-of-ml-python"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Developer-Prince",
+      "pushedAt": "2021-07-21T08:26:11Z",
+      "url": "https://github.com/akhilvydyula/fork-Developer-Prince"
+    },
+    {
+      "description": "A curated list of references for MLOps ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-mlops",
+      "pushedAt": "2021-07-20T11:05:56Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-mlops"
+    },
+    {
+      "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-industry-machine-learning",
+      "pushedAt": "2021-07-20T08:21:19Z",
+      "url": "https://github.com/akhilvydyula/fork-industry-machine-learning"
+    },
+    {
+      "description": "A curated list of NLP resources focused on BERT, attention mechanism, Transformer networks, and transfer learning.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-bert-nlp",
+      "pushedAt": "2021-07-19T04:02:24Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-bert-nlp"
+    },
+    {
+      "description": ":memo: Repository for Machine Learning and Computer Vision references.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Machine-Learning-and-Computer-Vision-References",
+      "pushedAt": "2021-07-17T06:54:08Z",
+      "url": "https://github.com/akhilvydyula/fork-Machine-Learning-and-Computer-Vision-References"
+    },
+    {
+      "description": "Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-ai-ml-dl",
+      "pushedAt": "2021-07-16T21:39:37Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-ai-ml-dl"
+    },
+    {
+      "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-production-machine-learning",
+      "pushedAt": "2021-07-15T10:51:14Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-production-machine-learning"
+    },
+    {
+      "description": "A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Awesome-Mobile-Machine-Learning",
+      "pushedAt": "2021-07-08T17:17:13Z",
+      "url": "https://github.com/akhilvydyula/fork-Awesome-Mobile-Machine-Learning"
+    },
+    {
+      "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-machine-learning",
+      "pushedAt": "2021-07-08T13:16:05Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-machine-learning"
+    },
+    {
+      "description": "UpGrad Course workout for ML & AI ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-upgrad_ml_ai",
+      "pushedAt": "2021-07-03T10:11:17Z",
+      "url": "https://github.com/akhilvydyula/fork-upgrad_ml_ai"
+    },
+    {
+      "description": "readme!",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-krishanu-2001",
+      "pushedAt": "2021-07-02T17:04:05Z",
+      "url": "https://github.com/akhilvydyula/fork-krishanu-2001"
+    },
+    {
+      "description": "This is the repository that contains the material of the live learning sessions of the NYC Data Science Academy Online Bootcamp.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-live-learning-sessions",
+      "pushedAt": "2021-07-01T20:18:37Z",
+      "url": "https://github.com/akhilvydyula/fork-live-learning-sessions"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "learn-task1",
+      "pushedAt": "2021-06-22T13:04:00Z",
+      "url": "https://github.com/akhilvydyula/learn-task1"
+    },
+    {
+      "description": "A list of operating systems and stuff",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-os",
+      "pushedAt": "2021-06-21T14:09:18Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-os"
+    },
+    {
+      "description": "This repository consists of all my Machine Learning Projects.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Machine-Learning-Projects",
+      "pushedAt": "2021-06-17T16:05:47Z",
+      "url": "https://github.com/akhilvydyula/fork-Machine-Learning-Projects"
+    },
+    {
+      "description": "Machine Learning Interviews from FAAG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-machine-learning-interview",
+      "pushedAt": "2021-06-14T01:34:08Z",
+      "url": "https://github.com/akhilvydyula/fork-machine-learning-interview"
+    },
+    {
+      "description": "This repository contains the best Data Science free hand-picked resources to equip you with all the industry-driven skills and interview preparation kit.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Best-Data-Science-Resources",
+      "pushedAt": "2021-06-13T16:53:06Z",
+      "url": "https://github.com/akhilvydyula/fork-Best-Data-Science-Resources"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "learn-devops",
+      "pushedAt": "2021-06-12T08:33:14Z",
+      "url": "https://github.com/akhilvydyula/learn-devops"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-MachineHack",
+      "pushedAt": "2021-06-08T20:52:38Z",
+      "url": "https://github.com/akhilvydyula/fork-MachineHack"
+    },
+    {
+      "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-handson-ml",
+      "pushedAt": "2021-06-08T20:14:30Z",
+      "url": "https://github.com/akhilvydyula/fork-handson-ml"
+    },
+    {
+      "description": "A curated list of awesome computer vision resources",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-computer-vision",
+      "pushedAt": "2021-06-04T19:41:48Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-computer-vision"
+    },
+    {
+      "description": ":books: Read all Medium stories for free!",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-mediumship",
+      "pushedAt": "2021-05-30T09:58:56Z",
+      "url": "https://github.com/akhilvydyula/fork-mediumship"
+    },
+    {
+      "description": "collections of data science, machine learning and data visualization projects with pandas, sklearn, matplotlib, tensorflow2, Keras, various ML algorithms like random forest classifier, boosting, etc",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-Science-and-Machine-Learning-Projects-Dojo",
+      "pushedAt": "2021-05-28T06:41:18Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-Science-and-Machine-Learning-Projects-Dojo"
+    },
+    {
+      "description": "Jupyter metapackage for installation, docs and chat",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-jupyter",
+      "pushedAt": "2021-05-27T21:24:23Z",
+      "url": "https://github.com/akhilvydyula/fork-jupyter"
+    },
+    {
+      "description": "All the slides, accompanying code and exercises all stored in this repo. \ud83c\udf88",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-datacamp-python-data-science-track",
+      "pushedAt": "2021-05-09T12:20:08Z",
+      "url": "https://github.com/akhilvydyula/fork-datacamp-python-data-science-track"
+    },
+    {
+      "description": "A machine learning course using Python, Jupyter Notebooks, and OpenML",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-master",
+      "pushedAt": "2021-04-23T22:36:48Z",
+      "url": "https://github.com/akhilvydyula/fork-master"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-fashion-data-business",
+      "pushedAt": "2021-04-21T10:45:40Z",
+      "url": "https://github.com/akhilvydyula/ml-fashion-data-business"
+    },
+    {
+      "description": "This is the project that I created while working at TCS iON. The model is deployed on Heroku using Flask.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Restaurant-Review-Sentiment-Analysis",
+      "pushedAt": "2021-04-07T07:32:44Z",
+      "url": "https://github.com/akhilvydyula/fork-Restaurant-Review-Sentiment-Analysis"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Twitter-sentiment-analysis",
+      "pushedAt": "2021-03-31T16:35:11Z",
+      "url": "https://github.com/akhilvydyula/ml-Twitter-sentiment-analysis"
+    },
+    {
+      "description": "car price preedictions",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Car-price-predictions",
+      "pushedAt": "2021-03-28T08:22:16Z",
+      "url": "https://github.com/akhilvydyula/ml-Car-price-predictions"
+    },
+    {
+      "description": "Breast Cancer WebAPP",
+      "isArchived": false,
+      "isFork": false,
+      "name": "web-Breast-Cancer_WebAPP",
+      "pushedAt": "2021-03-28T04:18:45Z",
+      "url": "https://github.com/akhilvydyula/web-Breast-Cancer_WebAPP"
+    },
+    {
+      "description": "Movie-Recommendation-WebAPP",
+      "isArchived": false,
+      "isFork": false,
+      "name": "web-Movie-Recommendation-WebAPP",
+      "pushedAt": "2021-03-28T04:09:32Z",
+      "url": "https://github.com/akhilvydyula/web-Movie-Recommendation-WebAPP"
+    },
+    {
+      "description": "Completed assignments and coding challenges from the Lambda School Data Science program.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-LambdaSchoolDataScience",
+      "pushedAt": "2021-03-25T22:00:15Z",
+      "url": "https://github.com/akhilvydyula/fork-LambdaSchoolDataScience"
+    },
+    {
+      "description": "Developed by machine learning alroithms and deployed using flask, Heroku.",
+      "isArchived": false,
+      "isFork": false,
+      "name": "Spam-Filter-Web-App",
+      "pushedAt": "2021-03-24T09:34:26Z",
+      "url": "https://github.com/akhilvydyula/Spam-Filter-Web-App"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Automatic-Medical-reports-by-Using-Deep-Learning.",
+      "pushedAt": "2021-03-21T10:42:46Z",
+      "url": "https://github.com/akhilvydyula/ml-Automatic-Medical-reports-by-Using-Deep-Learning."
+    },
+    {
+      "description": "bert nlp papers, applications and  github resources, including the newst xlnet  \uff0c BERT\u3001XLNet \u76f8\u5173\u8bba\u6587\u548c github \u9879\u76ee",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-bert",
+      "pushedAt": "2021-03-21T03:06:33Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-bert"
+    },
+    {
+      "description": "To predict the score range for the first Innings (Regression setup) : https://ipl-1stinnings-score-predictor.herokuapp.com/",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-IPL-First-Inning-Score-Predictor",
+      "pushedAt": "2021-03-20T04:34:37Z",
+      "url": "https://github.com/akhilvydyula/fork-IPL-First-Inning-Score-Predictor"
+    },
+    {
+      "description": "https://diabetes-specialist.herokuapp.com/",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-DiabetesPrediction_Deployed-Heroku",
+      "pushedAt": "2021-03-20T04:10:58Z",
+      "url": "https://github.com/akhilvydyula/fork-DiabetesPrediction_Deployed-Heroku"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-Science-Tutorial-By-Lambda-School",
+      "pushedAt": "2021-03-20T01:44:06Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-Science-Tutorial-By-Lambda-School"
+    },
+    {
+      "description": "COVID-19 Detection Chest X-rays and CT scans: COVID-19 Detection based on Chest X-rays and CT Scans using four Transfer Learning algorithms: VGG16, ResNet50, InceptionV3, Xception. The models were trained for 500 epochs on around 1000 Chest X-rays and around 750 CT Scan images on Google Colab GPU. A Flask App was later developed wherein user can upload Chest X-rays or CT Scans and get the output of possibility of COVID infection.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans",
+      "pushedAt": "2021-03-19T10:52:08Z",
+      "url": "https://github.com/akhilvydyula/fork-COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans"
+    },
+    {
+      "description": "Repository containing the colab-notebooks of the course i did on deep learning from One-Fourth-Labs",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-PadhAI-Course",
+      "pushedAt": "2021-03-14T18:55:49Z",
+      "url": "https://github.com/akhilvydyula/fork-PadhAI-Course"
+    },
+    {
+      "description": "Finds Jobs on LinkedIn using web-scraping",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Jobs_LinkedIn",
+      "pushedAt": "2021-03-14T05:43:56Z",
+      "url": "https://github.com/akhilvydyula/fork-Jobs_LinkedIn"
+    },
+    {
+      "description": "State-of-the art Automated Machine Learning python library for Tabular Data",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-AutoML_Alex",
+      "pushedAt": "2021-03-07T22:04:56Z",
+      "url": "https://github.com/akhilvydyula/fork-AutoML_Alex"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Stackoverflow-tag-prediction",
+      "pushedAt": "2021-03-02T03:26:29Z",
+      "url": "https://github.com/akhilvydyula/ml-Stackoverflow-tag-prediction"
+    },
+    {
+      "description": "Amazon_fine_food_review Introduction The Amazon Fine Food Reviews dataset consists of 568,454 food reviews. This dataset consists of a single CSV file, Reviews.csv  Data Set Click here to get the dataset.  Review.csv - 251MB Dataset statistics      Number of reviews     568,454     Number of users     256,059     Number of products     74,258     Users with > 50 reviews     260     Median no. of words per review     56     Timespan     Oct 1999 - Oct 2012 Data Fields Explanation      Id - Unique row number     ProductId - unique identifier for the product     UserId - unqiue identifier for the user     ProfileName     HelpfulnessNumerator - number of users who found the review helpful     HelpfulnessDenominator - number of users who indicated whether they found the review helpful     Score - rating between 1 and 5     Time - timestamp for the review     Summary - brief summary of the review     Text - text of the review EDA Objective Analysing the data & plot the required graphs to show that these conclusions are true:  a. Positive reviews are very common. b. Positive reviews are shorter. c. Longer reviews are more helpful. d. Despite being more common and shorter, positive reviews are found more helpful. e. Frequent reviewers are more discerning in their ratings, write longer reviews, and write more helpful reviews Note: This notebook is highly inspired from the Exploratory visualization of Amazon fine food reviews by Rob Castellano.  Model Building     STEP-1: Copy the data in Pandas DataFrame and drop unwanted columns.     STEP-2: Text Preprocessing.             a. Converting to lower-case.             b. Removing HTML Tags.             c. Removing Special Characters.             d. Removing Stop Words.             e. Stemming (Snowball Stemming)     STEP-3: Vectorizing out Data Set     STEP-4: Building and evaluating the model             a. Naive Bayes             b. Logistic Regression - with L1 and L2 regularizors             c. Linear SVM             d. RBF Kernel SVM ",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Amazon-fine-food-reviews-sentiment-analysis",
+      "pushedAt": "2021-03-02T03:18:58Z",
+      "url": "https://github.com/akhilvydyula/ml-Amazon-fine-food-reviews-sentiment-analysis"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Automate-Smart-Reply-",
+      "pushedAt": "2021-03-01T11:53:53Z",
+      "url": "https://github.com/akhilvydyula/ml-Automate-Smart-Reply-"
+    },
+    {
+      "description": "Microsoft malware detection",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Microsoft-malware_detection_",
+      "pushedAt": "2021-03-01T11:28:35Z",
+      "url": "https://github.com/akhilvydyula/ml-Microsoft-malware_detection_"
+    },
+    {
+      "description": "A data science project to predict whether a transaction is a fraud or not.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-transaction-fraud-detection",
+      "pushedAt": "2021-02-27T14:21:35Z",
+      "url": "https://github.com/akhilvydyula/fork-transaction-fraud-detection"
+    },
+    {
+      "description": "Turning salesforce lead, oppty, & sales activities data => Sales predictions using pandas, Scikit-learn, SQLAlchemy, Redshift, XGBoost Classifier",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Classifying-Sales-Calls",
+      "pushedAt": "2021-02-26T00:17:11Z",
+      "url": "https://github.com/akhilvydyula/fork-Classifying-Sales-Calls"
+    },
+    {
+      "description": "In this repo I will try to gather all of the projects related to data science with clean datasets and high accuracy models to solve real world problems.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-datascience-mashup",
+      "pushedAt": "2021-02-24T22:05:08Z",
+      "url": "https://github.com/akhilvydyula/fork-datascience-mashup"
+    },
+    {
+      "description": "This repo aims to contain different machine learning use cases along with the descriptions to the model architectures",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Grokking-Machine-Learning",
+      "pushedAt": "2021-02-24T08:06:06Z",
+      "url": "https://github.com/akhilvydyula/fork-Grokking-Machine-Learning"
+    },
+    {
+      "description": "Papers from the intersection of deep learning and neuroscience",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-neuro-ai-papers",
+      "pushedAt": "2021-02-17T18:40:19Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-neuro-ai-papers"
+    },
+    {
+      "description": "My personal GitHub Overview page. This page consists of most of the information about me with all the required links to reach out to my public portfolios. ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-blurred-machine",
+      "pushedAt": "2021-02-13T17:09:14Z",
+      "url": "https://github.com/akhilvydyula/fork-blurred-machine"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-ML-Reproducibility-2020-DUQ",
+      "pushedAt": "2021-01-29T19:13:38Z",
+      "url": "https://github.com/akhilvydyula/fork-ML-Reproducibility-2020-DUQ"
+    },
+    {
+      "description": "A curated list of bootcamps and platforms to learn Machine Learning and Data Science",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-machine-learning-bootcamps",
+      "pushedAt": "2021-01-28T09:24:48Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-machine-learning-bootcamps"
+    },
+    {
+      "description": "Build and train state-of-the-art natural language processing models using BERT ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Getting-Started-with-Google-BERT",
+      "pushedAt": "2021-01-25T07:40:45Z",
+      "url": "https://github.com/akhilvydyula/fork-Getting-Started-with-Google-BERT"
+    },
+    {
+      "description": "A list of colleges and universities offering degrees in data science.  ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-datascience-colleges",
+      "pushedAt": "2021-01-24T21:22:19Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-datascience-colleges"
+    },
+    {
+      "description": "Advanced NLP with TensorFlow 2, published by [Packt]",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Advanced-NLP-with-TensorFlow-2",
+      "pushedAt": "2021-01-22T09:08:51Z",
+      "url": "https://github.com/akhilvydyula/fork-Advanced-NLP-with-TensorFlow-2"
+    },
+    {
+      "description": "Hands-On Computer Vision with OpenCV 4, Keras, and TensorFlow 2 [Video], published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Hands-On-Computer-Vision-with-OpenCV-4-Keras-and-TensorFlow-2",
+      "pushedAt": "2021-01-21T09:38:04Z",
+      "url": "https://github.com/akhilvydyula/fork-Hands-On-Computer-Vision-with-OpenCV-4-Keras-and-TensorFlow-2"
+    },
+    {
+      "description": "Building Recommender Systems with Machine Learning and AI, published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Building-Recommender-Systems-with-Machine-Learning-and-AI",
+      "pushedAt": "2021-01-19T06:34:56Z",
+      "url": "https://github.com/akhilvydyula/fork-Building-Recommender-Systems-with-Machine-Learning-and-AI"
+    },
+    {
+      "description": "Ensemble Machine Learning Cookbook, published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Ensemble-Machine-Learning-Cookbook",
+      "pushedAt": "2021-01-18T08:57:45Z",
+      "url": "https://github.com/akhilvydyula/fork-Ensemble-Machine-Learning-Cookbook"
+    },
+    {
+      "description": "Machine Learning Projects for Mobile Applications, published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Machine-Learning-Projects-for-Mobile-Applications",
+      "pushedAt": "2021-01-15T08:57:37Z",
+      "url": "https://github.com/akhilvydyula/fork-Machine-Learning-Projects-for-Mobile-Applications"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Hands-On-Image-Processing-with-Python",
+      "pushedAt": "2021-01-15T07:52:51Z",
+      "url": "https://github.com/akhilvydyula/fork-Hands-On-Image-Processing-with-Python"
+    },
+    {
+      "description": "Machine Learning for Mobile, published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Machine-Learning-for-Mobile",
+      "pushedAt": "2021-01-15T07:39:04Z",
+      "url": "https://github.com/akhilvydyula/fork-Machine-Learning-for-Mobile"
+    },
+    {
+      "description": "Statistical Methods & Applied Mathematics in Data Science, Published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Statistical-Methods---Applied-Mathematics-in-Data-Science",
+      "pushedAt": "2021-01-15T06:50:31Z",
+      "url": "https://github.com/akhilvydyula/fork-Statistical-Methods---Applied-Mathematics-in-Data-Science"
+    },
+    {
+      "description": "Code repository for Applications of Statistical Learning with Python, Published By Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Applications-of-Statistical-Learning-with-Python",
+      "pushedAt": "2021-01-14T16:11:31Z",
+      "url": "https://github.com/akhilvydyula/fork-Applications-of-Statistical-Learning-with-Python"
+    },
+    {
+      "description": "Practical Time-Series Analysis, published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Practical-Time-Series-Analysis",
+      "pushedAt": "2021-01-14T13:39:14Z",
+      "url": "https://github.com/akhilvydyula/fork-Practical-Time-Series-Analysis"
+    },
+    {
+      "description": "This repository comprises of the projects and assignments that i have completed during my tenure at Great Lakes for the course program PGP-AIML.  This repository also includes the lab work thatwas done during the classes and even those that were given as assessments. ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Projects_Assessments_AIML_GreatLakes",
+      "pushedAt": "2021-01-10T10:52:06Z",
+      "url": "https://github.com/akhilvydyula/fork-Projects_Assessments_AIML_GreatLakes"
+    },
+    {
+      "description": "List of projects related to Natural Language Processing (NLP) that make a geek smile for they exist",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-nlprojects",
+      "pushedAt": "2021-01-09T15:39:50Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-nlprojects"
+    },
+    {
+      "description": "This is my case study",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Santander_customer_casestudy",
+      "pushedAt": "2021-01-04T12:19:43Z",
+      "url": "https://github.com/akhilvydyula/ml-Santander_customer_casestudy"
+    },
+    {
+      "description": "Grandmaster in MachineHack (3rd Rank Best) | Top 70 in AnalyticsVidya & Zindi | Expert at Kaggle | Hack AI",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-Science-Hackathon-And-Competition",
+      "pushedAt": "2020-12-31T19:24:21Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-Science-Hackathon-And-Competition"
+    },
+    {
+      "description": "A curated list of awesome open source healthcare tools, algorithms, datasets and research papers.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-healthcare-ai",
+      "pushedAt": "2020-12-16T12:14:02Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-healthcare-ai"
+    },
+    {
+      "description": "Hands-On Computer Vision with TensorFlow 2, published by Packt",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Hands-On-Computer-Vision-with-TensorFlow-2",
+      "pushedAt": "2020-12-15T00:57:23Z",
+      "url": "https://github.com/akhilvydyula/fork-Hands-On-Computer-Vision-with-TensorFlow-2"
+    },
+    {
+      "description": " This Repo Contains all the exercise files for Data Science Course of 365 Datascience . The repo is split into the relevant folders & there is one exercise folder which contains all the files of that course. Don't forget to star it :D",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-365datascience",
+      "pushedAt": "2020-11-01T07:39:22Z",
+      "url": "https://github.com/akhilvydyula/fork-365datascience"
+    },
+    {
+      "description": "Comparative study of different NER models through User Interface.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Named-Entity-Recognition-Guide",
+      "pushedAt": "2020-10-30T11:31:43Z",
+      "url": "https://github.com/akhilvydyula/fork-Named-Entity-Recognition-Guide"
+    },
+    {
+      "description": "All the learning material for deep learning bootcamp can be found in this repository",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Deep_Learning_Bootcamp",
+      "pushedAt": "2020-10-18T20:01:10Z",
+      "url": "https://github.com/akhilvydyula/fork-Deep_Learning_Bootcamp"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Coding-ninjas--Data-Science-and-Machine-Learning",
+      "pushedAt": "2020-10-01T04:54:56Z",
+      "url": "https://github.com/akhilvydyula/fork-Coding-ninjas--Data-Science-and-Machine-Learning"
+    },
+    {
+      "description": "ML Online Course Repository. Course videos on online.codingblocks.com",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-machine-learning-online-2018",
+      "pushedAt": "2020-10-01T02:52:45Z",
+      "url": "https://github.com/akhilvydyula/fork-machine-learning-online-2018"
+    },
+    {
+      "description": "DataScience projects for learning : Kaggle challenges, Object Recognition, Parsing, etc.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-Science-Projects-1",
+      "pushedAt": "2020-09-30T18:28:09Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-Science-Projects-1"
+    },
+    {
+      "description": "A collection of all the projects built on TheCodex.Me",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Projects",
+      "pushedAt": "2020-09-30T00:31:16Z",
+      "url": "https://github.com/akhilvydyula/fork-Projects"
+    },
+    {
+      "description": "Extensive tutorials for the Advanced NLP Workshop in Open Data Science Conference Europe 2020. We will leverage machine learning, deep learning and deep transfer learning to learn and solve popular tasks using NLP including NER, Classification, Recommendation \\ Information Retrieval, Summarization, Classification, Language Translation, Q&A and Topic Models.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-nlp_workshop_odsc_europe20",
+      "pushedAt": "2020-09-18T04:43:14Z",
+      "url": "https://github.com/akhilvydyula/fork-nlp_workshop_odsc_europe20"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-100-Days-of-NLP",
+      "pushedAt": "2020-08-27T19:35:34Z",
+      "url": "https://github.com/akhilvydyula/fork-100-Days-of-NLP"
+    },
+    {
+      "description": "Notebooks from University of Toronto's Quantum ML MOOC",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Quantum-Machine-Learning",
+      "pushedAt": "2020-08-26T10:20:36Z",
+      "url": "https://github.com/akhilvydyula/fork-Quantum-Machine-Learning"
+    },
+    {
+      "description": "A list of schools and researchers in computational neuroscience",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-computational-neuroscience",
+      "pushedAt": "2020-08-23T01:15:40Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-computational-neuroscience"
+    },
+    {
+      "description": "All the projects completed while perusing PG Diploma in Machine Learning and AI from IIIT-B",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-iiitb-projects",
+      "pushedAt": "2020-08-19T14:14:23Z",
+      "url": "https://github.com/akhilvydyula/fork-iiitb-projects"
+    },
+    {
+      "description": "Portfolio including my data science projects for academic, self-learning, and hobby.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-Science-Portfolio",
+      "pushedAt": "2020-07-20T05:13:02Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-Science-Portfolio"
+    },
+    {
+      "description": "Post Graduate Program in Artificial Intelligence and Machine Learning from NIT Warangal",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-NITW_PG_Solutions",
+      "pushedAt": "2020-07-15T04:43:31Z",
+      "url": "https://github.com/akhilvydyula/fork-NITW_PG_Solutions"
+    },
+    {
+      "description": "Contains slides and hands-on tutorials for understanding and implementing Transformers in Natural Language Processing. Uses the HuggingFace Transformers framework in the hands-on tutorials.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-transformers_nlp_essentials",
+      "pushedAt": "2020-06-28T12:20:48Z",
+      "url": "https://github.com/akhilvydyula/fork-transformers_nlp_essentials"
+    },
+    {
+      "description": "Collection of data science projects in Python",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-Science-Projects",
+      "pushedAt": "2020-06-18T16:49:56Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-Science-Projects"
+    },
+    {
+      "description": "Code for Psychology 253",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-psych253",
+      "pushedAt": "2020-06-07T17:12:59Z",
+      "url": "https://github.com/akhilvydyula/fork-psych253"
+    },
+    {
+      "description": "assignments and group case studies from PGDMLAI course by upGrad & IIITB",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-upgrad_pgdmlai",
+      "pushedAt": "2020-06-01T05:56:19Z",
+      "url": "https://github.com/akhilvydyula/fork-upgrad_pgdmlai"
+    },
+    {
+      "description": "Learn to build, evaluate, and integrate predictive models that have the power to transform patient outcomes. Begin by classifying and segmenting 2D and 3D medical images to augment diagnosis and then move on to modeling patient outcomes with electronic health records to optimize clinical trial testing decisions. Finally, build an algorithm that uses data collected from wearable devices to estimate the wearer\u2019s pulse rate in the presence of motion.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-AI-for-Healthcare-Nanodegree",
+      "pushedAt": "2020-05-31T11:24:10Z",
+      "url": "https://github.com/akhilvydyula/fork-AI-for-Healthcare-Nanodegree"
+    },
+    {
+      "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-stanford-cs-229-machine-learning",
+      "pushedAt": "2020-05-20T04:57:25Z",
+      "url": "https://github.com/akhilvydyula/fork-stanford-cs-229-machine-learning"
+    },
+    {
+      "description": "This repo contains code for the analytics competition that I have participated in.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Hackathon-Solutions",
+      "pushedAt": "2020-05-18T03:33:24Z",
+      "url": "https://github.com/akhilvydyula/fork-Hackathon-Solutions"
+    },
+    {
+      "description": "Analytics Vidhya - ML Hackathons",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-AV_Hackathon",
+      "pushedAt": "2020-05-17T19:36:50Z",
+      "url": "https://github.com/akhilvydyula/fork-AV_Hackathon"
+    },
+    {
+      "description": "A curated list of awesome Deep Learning for Natural Language Processing resources",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-dl4nlp",
+      "pushedAt": "2020-04-30T05:37:34Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-dl4nlp"
+    },
+    {
+      "description": ":speech_balloon: Machine Learning Course with Python: ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-machine-learning-course",
+      "pushedAt": "2020-04-21T03:19:13Z",
+      "url": "https://github.com/akhilvydyula/fork-machine-learning-course"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Deep-Learning",
+      "pushedAt": "2020-03-27T03:19:09Z",
+      "url": "https://github.com/akhilvydyula/fork-Deep-Learning"
+    },
+    {
+      "description": "This Repository contains the list of various Machine and Deep Learning related projects. Related code and data files are available inside this folder. One can go through these projects to implement them in real life for specific use cases.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Deep_and_Machine_Learning_Projects",
+      "pushedAt": "2020-03-22T02:11:28Z",
+      "url": "https://github.com/akhilvydyula/fork-Deep_and_Machine_Learning_Projects"
+    },
+    {
+      "description": "Explanation of Mathematics used in Machine Learning Algorithms and some Projects",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Machine-Learning",
+      "pushedAt": "2020-03-11T15:42:43Z",
+      "url": "https://github.com/akhilvydyula/fork-Machine-Learning"
+    },
+    {
+      "description": "Dask tutorial",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-dask-tutorial",
+      "pushedAt": "2020-03-10T16:01:09Z",
+      "url": "https://github.com/akhilvydyula/fork-dask-tutorial"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-bing_search_API",
+      "pushedAt": "2020-03-07T11:44:50Z",
+      "url": "https://github.com/akhilvydyula/ml-bing_search_API"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-converting-Speech-to-Text-APIs",
+      "pushedAt": "2020-03-01T16:50:51Z",
+      "url": "https://github.com/akhilvydyula/ml-converting-Speech-to-Text-APIs"
+    },
+    {
+      "description": "In the fashion industry, there are brands that manufacture and retailers that sell. Each brand usually partners with multiple retailers to sell their inventory. So, it may happen that there is a product that is being sold at multiple retailers.  The retailers need to set the correct price in order to win over the customer and also take care of the fact that they don't lose out on profits. They have to keep a watch on both their own and their competition's pricing strategy. There is a ton of data that every retailer has to gather to make better pricing decisions. They track the brands, availability and prices among other  for each product. Net-a-porter (NAP) is a famous retailer in Europe. They have identified five competing retailers and have mapped each product in their own inventory with a similar product on their competition's catalogue. This is where you come in. The team at Net-a-porter has a few queries they want answered. They need a flask app that processes and analyses the data and helps them in making day-to-day pricing decisions.",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Prediction_day_to_day_Prices",
+      "pushedAt": "2020-03-01T15:08:32Z",
+      "url": "https://github.com/akhilvydyula/ml-Prediction_day_to_day_Prices"
+    },
+    {
+      "description": "A Keras implementation of YOLOv3 (Tensorflow backend)",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-keras-yolo3",
+      "pushedAt": "2020-02-08T14:16:22Z",
+      "url": "https://github.com/akhilvydyula/fork-keras-yolo3"
+    },
+    {
+      "description": "Post Graduate Diploma in Data Science Projects ",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-PGDDS-Projects",
+      "pushedAt": "2020-02-04T17:06:00Z",
+      "url": "https://github.com/akhilvydyula/fork-PGDDS-Projects"
+    },
+    {
+      "description": "ML/DL scripts for practical projects",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-MachineLearningToDeepLearning-Practical-Projects",
+      "pushedAt": "2020-02-01T17:52:51Z",
+      "url": "https://github.com/akhilvydyula/fork-MachineLearningToDeepLearning-Practical-Projects"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Apparel-Recommendation",
+      "pushedAt": "2020-01-21T13:05:32Z",
+      "url": "https://github.com/akhilvydyula/ml-Apparel-Recommendation"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Taxi-demand-prediction",
+      "pushedAt": "2020-01-21T13:02:46Z",
+      "url": "https://github.com/akhilvydyula/ml-Taxi-demand-prediction"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml--Personalized-Cancer-diagnosis",
+      "pushedAt": "2020-01-21T13:00:58Z",
+      "url": "https://github.com/akhilvydyula/ml--Personalized-Cancer-diagnosis"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Netflix-prize",
+      "pushedAt": "2020-01-21T12:57:01Z",
+      "url": "https://github.com/akhilvydyula/ml-Netflix-prize"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Quora-question-pair-similarity-",
+      "pushedAt": "2020-01-21T12:53:24Z",
+      "url": "https://github.com/akhilvydyula/ml-Quora-question-pair-similarity-"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Facebook-Friend-Recommendation",
+      "pushedAt": "2020-01-21T12:39:38Z",
+      "url": "https://github.com/akhilvydyula/ml-Facebook-Friend-Recommendation"
+    },
+    {
+      "description": "",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-human_activity_recognition",
+      "pushedAt": "2020-01-21T12:32:15Z",
+      "url": "https://github.com/akhilvydyula/ml-human_activity_recognition"
+    },
+    {
+      "description": "In this repository shows T-SNE on heberman dataset. ",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Heberman_Dataset",
+      "pushedAt": "2020-01-21T12:18:28Z",
+      "url": "https://github.com/akhilvydyula/ml-Heberman_Dataset"
+    },
+    {
+      "description": "In this repository shows different classification and regression algorithms applied on donor choose dataset ",
+      "isArchived": false,
+      "isFork": false,
+      "name": "ml-Donor_Choose_Dataset",
+      "pushedAt": "2020-01-21T12:13:26Z",
+      "url": "https://github.com/akhilvydyula/ml-Donor_Choose_Dataset"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-bert-for-sentiment-analysis",
+      "pushedAt": "2020-01-17T20:17:19Z",
+      "url": "https://github.com/akhilvydyula/fork-bert-for-sentiment-analysis"
+    },
+    {
+      "description": "Microsoft Malware Detection",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Microsoft-Malware-Detection",
+      "pushedAt": "2020-01-15T02:16:01Z",
+      "url": "https://github.com/akhilvydyula/fork-Microsoft-Malware-Detection"
+    },
+    {
+      "description": "DataCamp Project Solutions",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-DataCamp-Project-Solutions-Python",
+      "pushedAt": "2019-12-29T12:12:27Z",
+      "url": "https://github.com/akhilvydyula/fork-DataCamp-Project-Solutions-Python"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Deep-learning-projects",
+      "pushedAt": "2019-12-15T15:36:29Z",
+      "url": "https://github.com/akhilvydyula/fork-Deep-learning-projects"
+    },
+    {
+      "description": "Finally, I am creating a single repository of solutions for all the data science competitions I am presently participating in. So, far I have been maintaining separate repositories which I feel is quite tedious.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Solutions_of_Data_Science_Hackathons",
+      "pushedAt": "2019-12-06T17:41:33Z",
+      "url": "https://github.com/akhilvydyula/fork-Solutions_of_Data_Science_Hackathons"
+    },
+    {
+      "description": "A curated list of resources dedicated to NLP (paper, blogs, note and etc)",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-nlp-note",
+      "pushedAt": "2019-11-30T14:27:50Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-nlp-note"
+    },
+    {
+      "description": "Pitampura Batch | Prateek & Mohit",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-machine-learning-aug-2019",
+      "pushedAt": "2019-11-03T11:08:29Z",
+      "url": "https://github.com/akhilvydyula/fork-machine-learning-aug-2019"
+    },
+    {
+      "description": "Course work from AIML by Great Learning",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-AIML",
+      "pushedAt": "2019-10-26T08:07:11Z",
+      "url": "https://github.com/akhilvydyula/fork-AIML"
+    },
+    {
+      "description": "course content, projects, exercises related to Udacity Data Science Nanodegree Term2",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-DSND2",
+      "pushedAt": "2019-10-21T17:30:33Z",
+      "url": "https://github.com/akhilvydyula/fork-DSND2"
+    },
+    {
+      "description": "Pitampura Batch.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-machine-learning-winter-2018",
+      "pushedAt": "2019-10-15T10:56:38Z",
+      "url": "https://github.com/akhilvydyula/fork-machine-learning-winter-2018"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-amExpert_ML_Hackathon_2019_Winners_Soultions",
+      "pushedAt": "2019-10-15T09:27:39Z",
+      "url": "https://github.com/akhilvydyula/fork-amExpert_ML_Hackathon_2019_Winners_Soultions"
+    },
+    {
+      "description": "Repository for the Zero to Deep Learning\u00ae Video Course",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-zero_to_deep_learning_video",
+      "pushedAt": "2019-10-08T09:22:46Z",
+      "url": "https://github.com/akhilvydyula/fork-zero_to_deep_learning_video"
+    },
+    {
+      "description": "Smart Reply Bot via Natural Language Processing (NLP) and Neural Network",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-reply-bot",
+      "pushedAt": "2019-09-17T16:41:22Z",
+      "url": "https://github.com/akhilvydyula/fork-reply-bot"
+    },
+    {
+      "description": "MachineHack is an online platform for Machine Learning competitions. We host toughest business problems that can now find solutions in Machine Learning & Data Science.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Predict-The-News-Category-Hackathon",
+      "pushedAt": "2019-09-11T16:12:39Z",
+      "url": "https://github.com/akhilvydyula/fork-Predict-The-News-Category-Hackathon"
+    },
+    {
+      "description": "A Machine Learning Case Study to predict the tags for a question on Stackoverflow. This is a Multi-label classification where a data point can belong to more than one class.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Stackoverflow-Tag-Prediction-1",
+      "pushedAt": "2019-08-31T08:30:41Z",
+      "url": "https://github.com/akhilvydyula/fork-Stackoverflow-Tag-Prediction-1"
+    },
+    {
+      "description": "Brain tumor segmentation for MICCAI 2017 BraTS challenge",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-brats17",
+      "pushedAt": "2019-08-04T02:20:23Z",
+      "url": "https://github.com/akhilvydyula/fork-brats17"
+    },
+    {
+      "description": "Machine learning algorithm such as KNN,Naive Bayes,Logistic Regression,SVM,Decision Trees,Random Forest,k means and Truncated SVD on amazon fine food review",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Amazon-Fine-Food-Review",
+      "pushedAt": "2019-07-26T16:08:23Z",
+      "url": "https://github.com/akhilvydyula/fork-Amazon-Fine-Food-Review"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Real-time-facial-expression-recognition",
+      "pushedAt": "2019-07-12T06:45:31Z",
+      "url": "https://github.com/akhilvydyula/fork-Real-time-facial-expression-recognition"
+    },
+    {
+      "description": "List of Artificial Intelligence startups companies - projectstartups.com",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Artificial-Intelligence-startups-companies-list",
+      "pushedAt": "2019-07-12T05:46:12Z",
+      "url": "https://github.com/akhilvydyula/fork-Artificial-Intelligence-startups-companies-list"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-PGDML-AI",
+      "pushedAt": "2019-06-27T15:20:00Z",
+      "url": "https://github.com/akhilvydyula/fork-PGDML-AI"
+    },
+    {
+      "description": "Identifying people from small audio fragments",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-voicemap",
+      "pushedAt": "2019-05-09T20:53:45Z",
+      "url": "https://github.com/akhilvydyula/fork-voicemap"
+    },
+    {
+      "description": "Amazon Fine Food Reviews is classification Sentiment Analysis problem. Classify the positive and negative reviews given by Amazon users. Given some product-based features and related reviews in text data. Featuring data and apply various Machine Learning techniques to classify reviews.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Amazon-Fine-Food-Reviews",
+      "pushedAt": "2019-04-30T09:54:40Z",
+      "url": "https://github.com/akhilvydyula/fork-Amazon-Fine-Food-Reviews"
+    },
+    {
+      "description": "\"Innoplexus Online Hiring Hackathon: Saving lives with AI\" where disease name has to be extracted from documents. The solution employes a Time distributed BI-LSTM model to perform Named Entity Recognition with 77.8% F1 score.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-NER_Disease_Extraction_Hackathon",
+      "pushedAt": "2019-04-19T04:59:23Z",
+      "url": "https://github.com/akhilvydyula/fork-NER_Disease_Extraction_Hackathon"
+    },
+    {
+      "description": "Projects and datasets for Machine Learning",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Machine-Learning--Projects",
+      "pushedAt": "2019-04-04T09:38:48Z",
+      "url": "https://github.com/akhilvydyula/fork-Machine-Learning--Projects"
+    },
+    {
+      "description": "My solutions to DataCamp projects (now only Python)",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-DataCamp_Solutions_Python",
+      "pushedAt": "2019-01-30T12:43:29Z",
+      "url": "https://github.com/akhilvydyula/fork-DataCamp_Solutions_Python"
+    },
+    {
+      "description": "A curated list of repositories for my book Machine Learning Solutions.",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Awesome_Machine_Learning_Solutions",
+      "pushedAt": "2018-05-28T06:17:32Z",
+      "url": "https://github.com/akhilvydyula/fork-Awesome_Machine_Learning_Solutions"
+    },
+    {
+      "description": "Sharing my solutions to data science hackathons conducted by Analytics Vidhya",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Data-Science-Hackathons-Analytics-Vidhya",
+      "pushedAt": "2018-04-29T07:41:04Z",
+      "url": "https://github.com/akhilvydyula/fork-Data-Science-Hackathons-Analytics-Vidhya"
+    },
+    {
+      "description": "",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Neural-Networks-in-Keras",
+      "pushedAt": "2017-12-07T04:31:40Z",
+      "url": "https://github.com/akhilvydyula/fork-Neural-Networks-in-Keras"
+    },
+    {
+      "description": "A curated list of speech and natural language processing resources",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-awesome-nlp-1",
+      "pushedAt": "2017-03-01T05:46:08Z",
+      "url": "https://github.com/akhilvydyula/fork-awesome-nlp-1"
+    },
+    {
+      "description": "Algorithm implementations and homework solutions for the Stanford's online courses",
+      "isArchived": true,
+      "isFork": true,
+      "name": "fork-Artificial-Intelligence-and-Machine-Learning",
+      "pushedAt": "2013-07-20T18:24:07Z",
+      "url": "https://github.com/akhilvydyula/fork-Artificial-Intelligence-and-Machine-Learning"
+    }
+  ],
+  "failed": []
+}

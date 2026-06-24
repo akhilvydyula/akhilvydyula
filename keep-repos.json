@@ -1,0 +1,45 @@
+{
+  "description": "Final ~10 repositories after consolidation (213 → 10)",
+  "keep": [
+    {
+      "name": "akhilvydyula",
+      "role": "GitHub profile README"
+    },
+    {
+      "name": "oss-goalos-ai",
+      "role": "Flagship AI / open-source product"
+    },
+    {
+      "name": "dataflow-ai",
+      "role": "Data + AI platform project"
+    },
+    {
+      "name": "interview-optimizer-pro",
+      "role": "Production-style AI application"
+    },
+    {
+      "name": "LMS-AI",
+      "role": "AI learning management system"
+    },
+    {
+      "name": "portfolio-Akhil-Vydyula-PortfolioWebsite",
+      "role": "Personal portfolio site"
+    },
+    {
+      "name": "web-deploy_flask_app",
+      "role": "Deployment & Flask showcase"
+    },
+    {
+      "name": "web-Apply_Jobs_Dashboard",
+      "role": "Dashboard / full-stack web app"
+    },
+    {
+      "name": "ml-Quora-Insincere-Questions-Classification",
+      "role": "NLP / Kaggle-style ML showcase"
+    },
+    {
+      "name": "oss-data-driven-decision-making",
+      "role": "Open-source analytics toolkit"
+    }
+  ]
+}
