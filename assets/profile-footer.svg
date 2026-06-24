@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-label="Lets Build">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-label="Lets Build">
   <defs>
-    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="fbg" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0467DF"/>
-      <stop offset="100%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#030712"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="100" fill="url(#footerBg)"/>
-  <text x="600" y="62" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, system-ui, sans-serif" font-size="36" font-weight="700">Let&apos;s Build.</text>
+  <rect width="1200" height="80" fill="url(#fbg)"/>
+  <text x="600" y="50" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, system-ui, sans-serif" font-size="32" font-weight="700">Ready to build production systems.</text>
 </svg>
